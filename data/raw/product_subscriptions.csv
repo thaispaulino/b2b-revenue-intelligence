@@ -1,0 +1,1258 @@
+client_id,platform,product_line,product_hierarchy,destination_country,adoption_date,is_active
+CLT0001,Sinch Engage,Verification,Data Verification,United Kingdom,2023-09-13,True
+CLT0001,Sinch Engage,SMS,P2P SMS,Ireland,2023-08-07,True
+CLT0001,Sinch Engage,Voice,Voice API,Ireland,2023-08-04,True
+CLT0002,Sinch Engage,Voice,Contact Center Voice,Germany,2021-07-05,True
+CLT0002,Sinch Engage,SMS,P2P SMS,Austria,2021-06-20,True
+CLT0003,Sinch Core,Voice,Contact Center Voice,Colombia,2023-03-20,True
+CLT0003,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Colombia,2023-02-02,True
+CLT0004,MessageMedia,Verification,Data Verification,France,2026-03-01,True
+CLT0004,MessageMedia,SMS,SMS API,Spain,2026-01-06,True
+CLT0005,MessageMedia,SMS,A2P SMS,Portugal,2025-08-31,False
+CLT0005,MessageMedia,Email,Marketing Email,Spain,2025-08-09,False
+CLT0006,MailerSend,Voice,Contact Center Voice,Japan,2023-08-04,True
+CLT0006,MailerSend,Verification,2FA SMS,Japan,2023-08-28,True
+CLT0006,MailerSend,SMS,SMS API,India,2023-09-11,True
+CLT0006,MailerSend,WhatsApp Business,WhatsApp API,Japan,2023-08-01,True
+CLT0007,MailerSend,SMS,P2P SMS,Switzerland,2026-03-04,True
+CLT0007,MailerSend,Verification,Flash Call Verification,Germany,2026-03-19,True
+CLT0008,Sinch Engage,SMS,P2P SMS,Portugal,2025-12-08,True
+CLT0009,Sinch Core,SMS,P2P SMS,France,2024-06-05,True
+CLT0009,Sinch Core,Verification,Data Verification,Spain,2024-05-15,True
+CLT0010,Sinch Core,Voice,Voice API,United Kingdom,2024-06-19,True
+CLT0010,Sinch Core,SMS,P2P SMS,United Kingdom,2024-07-10,True
+CLT0011,Sinch Engage,SMS,A2P SMS,United States,2025-12-22,True
+CLT0012,Sinch Core,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-04-25,True
+CLT0012,Sinch Core,Voice,SIP Trunking,Ireland,2023-04-29,True
+CLT0012,Sinch Core,SMS,P2P SMS,United Kingdom,2023-04-04,True
+CLT0012,Sinch Core,Verification,Flash Call Verification,United Kingdom,2023-05-09,True
+CLT0013,MailerSend,Voice,Contact Center Voice,Austria,2025-07-28,True
+CLT0014,MessageMedia,SMS,SMS API,Austria,2025-03-30,True
+CLT0014,MessageMedia,Email,Marketing Email,Switzerland,2025-04-03,True
+CLT0014,MessageMedia,Verification,Data Verification,Switzerland,2025-04-07,True
+CLT0015,Sinch Engage,SMS,P2P SMS,Mexico,2025-06-03,False
+CLT0015,Sinch Engage,Email,Marketing Email,Colombia,2025-06-29,False
+CLT0016,Sinch Core,SMS,P2P SMS,Spain,2025-05-22,False
+CLT0016,Sinch Core,Email,Transactional Email,France,2025-05-18,False
+CLT0017,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Mexico,2023-09-07,True
+CLT0017,Sinch Engage,Verification,Data Verification,Mexico,2023-08-05,True
+CLT0017,Sinch Engage,Voice,Voice API,Brazil,2023-09-03,True
+CLT0018,Sinch Core,WhatsApp Business,WhatsApp Business Platform,France,2024-11-25,True
+CLT0019,Sinch Core,Email,Email API,Sweden,2025-05-25,False
+CLT0019,Sinch Core,SMS,SMS API,Denmark,2025-06-19,False
+CLT0020,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Sweden,2021-11-20,True
+CLT0020,MessageMedia,Verification,Flash Call Verification,Finland,2021-09-29,True
+CLT0020,MessageMedia,SMS,A2P SMS,Finland,2021-09-28,True
+CLT0021,Sinch Core,Verification,Data Verification,Denmark,2023-08-04,True
+CLT0021,Sinch Core,Voice,SIP Trunking,Denmark,2023-07-23,True
+CLT0021,Sinch Core,SMS,SMS API,Norway,2023-08-07,True
+CLT0021,Sinch Core,Email,Email API,Finland,2023-08-03,True
+CLT0022,MessageMedia,Voice,Voice API,Australia,2023-04-13,True
+CLT0022,MessageMedia,Email,Marketing Email,India,2023-04-20,True
+CLT0022,MessageMedia,Verification,Data Verification,Japan,2023-02-27,True
+CLT0022,MessageMedia,SMS,P2P SMS,Australia,2023-03-30,True
+CLT0023,Sinch Engage,Verification,Data Verification,Norway,2026-01-24,True
+CLT0023,Sinch Engage,SMS,SMS API,Norway,2026-02-01,True
+CLT0024,Sinch Core,Voice,Contact Center Voice,Ireland,2024-03-22,True
+CLT0024,Sinch Core,WhatsApp Business,WhatsApp API,Ireland,2024-04-13,True
+CLT0024,Sinch Core,SMS,A2P SMS,Ireland,2024-04-14,True
+CLT0025,MessageMedia,Email,Email API,India,2025-01-17,False
+CLT0025,MessageMedia,SMS,A2P SMS,India,2024-12-26,False
+CLT0025,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Singapore,2025-01-16,False
+CLT0026,Sinch Engage,SMS,P2P SMS,United Kingdom,2024-03-18,True
+CLT0026,Sinch Engage,Voice,Voice API,Ireland,2024-02-29,True
+CLT0027,Sinch Core,SMS,P2P SMS,Switzerland,2025-03-31,True
+CLT0027,Sinch Core,Email,Marketing Email,Austria,2025-02-23,True
+CLT0027,Sinch Core,Verification,2FA SMS,Switzerland,2025-02-16,True
+CLT0028,Sinch Engage,Voice,SIP Trunking,Canada,2023-07-20,True
+CLT0028,Sinch Engage,WhatsApp Business,WhatsApp API,Canada,2023-06-21,True
+CLT0028,Sinch Engage,Verification,2FA SMS,Canada,2023-08-19,True
+CLT0028,Sinch Engage,SMS,SMS API,Canada,2023-06-22,True
+CLT0029,Sinch Engage,SMS,SMS API,Italy,2023-10-12,True
+CLT0029,Sinch Engage,Verification,2FA SMS,Portugal,2023-11-06,True
+CLT0029,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Portugal,2023-10-13,True
+CLT0030,Sinch Engage,Verification,Data Verification,Ireland,2025-07-20,True
+CLT0031,MessageMedia,SMS,A2P SMS,United Kingdom,2026-05-04,True
+CLT0031,MessageMedia,Voice,Voice API,Ireland,2026-04-19,True
+CLT0032,Sinch Engage,SMS,A2P SMS,Denmark,2025-03-30,False
+CLT0032,Sinch Engage,Email,Marketing Email,Finland,2025-04-29,False
+CLT0032,Sinch Engage,WhatsApp Business,WhatsApp API,Sweden,2025-05-09,False
+CLT0033,Sinch Core,WhatsApp Business,WhatsApp Business Platform,India,2023-02-14,True
+CLT0033,Sinch Core,Email,Marketing Email,India,2023-02-10,True
+CLT0033,Sinch Core,SMS,SMS API,Australia,2023-01-29,True
+CLT0033,Sinch Core,Voice,SIP Trunking,Australia,2023-02-18,True
+CLT0034,MessageMedia,WhatsApp Business,WhatsApp API,India,2022-12-02,True
+CLT0034,MessageMedia,SMS,SMS API,Singapore,2022-12-14,True
+CLT0034,MessageMedia,Voice,Voice API,Singapore,2022-12-19,True
+CLT0034,MessageMedia,Verification,Flash Call Verification,Singapore,2022-11-26,True
+CLT0035,Sinch Engage,SMS,SMS API,Germany,2024-07-04,True
+CLT0035,Sinch Engage,Voice,Contact Center Voice,Switzerland,2024-08-01,True
+CLT0036,Sinch Core,Voice,Contact Center Voice,Germany,2025-06-21,True
+CLT0036,Sinch Core,SMS,SMS API,Austria,2025-07-19,True
+CLT0037,Sinch Core,SMS,SMS API,France,2025-03-27,True
+CLT0037,Sinch Core,WhatsApp Business,WhatsApp API,France,2025-04-06,True
+CLT0037,Sinch Core,Voice,Voice API,Italy,2025-05-10,True
+CLT0038,MailerSend,SMS,P2P SMS,Denmark,2025-02-13,True
+CLT0038,MailerSend,Voice,Voice API,Norway,2025-03-05,True
+CLT0038,MailerSend,Verification,2FA SMS,Norway,2025-02-07,True
+CLT0039,MessageMedia,Verification,2FA SMS,United Kingdom,2023-12-10,True
+CLT0039,MessageMedia,WhatsApp Business,WhatsApp API,Ireland,2023-11-17,True
+CLT0040,Sinch Engage,SMS,A2P SMS,Finland,2025-11-14,True
+CLT0040,Sinch Engage,Email,Email API,Denmark,2025-12-03,True
+CLT0041,MailerSend,Email,Transactional Email,Italy,2022-12-14,True
+CLT0041,MailerSend,Voice,Contact Center Voice,France,2022-12-08,True
+CLT0041,MailerSend,SMS,A2P SMS,Italy,2022-12-09,True
+CLT0042,MessageMedia,Voice,Voice API,Portugal,2024-11-10,True
+CLT0042,MessageMedia,SMS,P2P SMS,Italy,2024-11-09,True
+CLT0043,Sinch Engage,Verification,Flash Call Verification,Denmark,2024-04-08,False
+CLT0043,Sinch Engage,WhatsApp Business,WhatsApp API,Denmark,2024-04-11,False
+CLT0044,Sinch Core,Email,Transactional Email,United Kingdom,2025-02-11,True
+CLT0044,Sinch Core,WhatsApp Business,WhatsApp API,Ireland,2025-03-30,True
+CLT0044,Sinch Core,SMS,A2P SMS,United Kingdom,2025-04-05,True
+CLT0045,Sinch Engage,SMS,SMS API,Colombia,2026-04-13,True
+CLT0045,Sinch Engage,Verification,2FA SMS,Mexico,2026-03-12,True
+CLT0046,Sinch Engage,Verification,Data Verification,United Kingdom,2024-02-02,True
+CLT0046,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2024-02-05,True
+CLT0047,Sinch Core,SMS,P2P SMS,United States,2021-07-16,True
+CLT0047,Sinch Core,Voice,SIP Trunking,United States,2021-07-17,True
+CLT0048,MailerSend,SMS,A2P SMS,Japan,2023-02-18,True
+CLT0048,MailerSend,Verification,Flash Call Verification,Singapore,2023-03-15,True
+CLT0048,MailerSend,Voice,Voice API,Australia,2023-02-21,True
+CLT0049,MailerSend,Email,Marketing Email,Singapore,2025-07-21,True
+CLT0049,MailerSend,SMS,SMS API,Australia,2025-08-20,True
+CLT0050,MailerSend,SMS,A2P SMS,Colombia,2024-09-18,True
+CLT0050,MailerSend,WhatsApp Business,WhatsApp Business Platform,Colombia,2024-09-04,True
+CLT0051,Sinch Core,Email,Marketing Email,Canada,2023-12-23,True
+CLT0051,Sinch Core,Verification,2FA SMS,United States,2023-12-23,True
+CLT0051,Sinch Core,SMS,P2P SMS,Canada,2023-12-17,True
+CLT0051,Sinch Core,Voice,Voice API,Canada,2024-02-15,True
+CLT0052,MessageMedia,Voice,SIP Trunking,Brazil,2025-11-08,True
+CLT0052,MessageMedia,SMS,A2P SMS,Argentina,2025-11-27,True
+CLT0053,MessageMedia,Verification,Data Verification,Japan,2024-05-16,True
+CLT0053,MessageMedia,SMS,A2P SMS,Japan,2024-06-21,True
+CLT0053,MessageMedia,Voice,SIP Trunking,India,2024-07-02,True
+CLT0054,Sinch Engage,Verification,Flash Call Verification,Colombia,2023-12-29,True
+CLT0054,Sinch Engage,Voice,Contact Center Voice,Argentina,2023-12-17,True
+CLT0055,Sinch Engage,SMS,SMS API,Ireland,2025-08-30,True
+CLT0055,Sinch Engage,Email,Marketing Email,Ireland,2025-09-05,True
+CLT0056,Sinch Core,Voice,SIP Trunking,Argentina,2022-04-25,True
+CLT0056,Sinch Core,WhatsApp Business,WhatsApp API,Mexico,2022-04-16,True
+CLT0056,Sinch Core,SMS,A2P SMS,Brazil,2022-05-20,True
+CLT0057,Sinch Engage,Voice,Voice API,France,2024-07-20,True
+CLT0057,Sinch Engage,Verification,2FA SMS,Spain,2024-07-25,True
+CLT0058,MailerSend,SMS,P2P SMS,France,2025-02-27,True
+CLT0058,MailerSend,Verification,Data Verification,Portugal,2025-02-08,True
+CLT0059,Sinch Engage,Email,Transactional Email,Germany,2023-12-20,True
+CLT0059,Sinch Engage,SMS,P2P SMS,Austria,2023-12-19,True
+CLT0059,Sinch Engage,Voice,SIP Trunking,Austria,2023-12-19,True
+CLT0059,Sinch Engage,WhatsApp Business,WhatsApp API,Germany,2024-01-14,True
+CLT0060,Sinch Engage,SMS,SMS API,Argentina,2024-10-02,True
+CLT0060,Sinch Engage,Email,Marketing Email,Colombia,2024-10-04,True
+CLT0060,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Brazil,2024-09-11,True
+CLT0061,Sinch Core,SMS,SMS API,Argentina,2025-12-01,True
+CLT0061,Sinch Core,Voice,SIP Trunking,Mexico,2025-12-01,True
+CLT0062,MailerSend,WhatsApp Business,WhatsApp Business Platform,Ireland,2024-12-10,True
+CLT0062,MailerSend,Voice,Contact Center Voice,Ireland,2024-11-28,True
+CLT0062,MailerSend,SMS,P2P SMS,United Kingdom,2024-12-21,True
+CLT0063,MessageMedia,Voice,SIP Trunking,Australia,2021-11-06,True
+CLT0063,MessageMedia,SMS,SMS API,India,2021-12-06,True
+CLT0064,MailerSend,SMS,P2P SMS,Denmark,2024-08-17,True
+CLT0064,MailerSend,WhatsApp Business,WhatsApp API,Norway,2024-08-01,True
+CLT0065,MailerSend,WhatsApp Business,WhatsApp API,Brazil,2024-10-14,False
+CLT0066,MailerSend,WhatsApp Business,WhatsApp API,Ireland,2021-08-25,True
+CLT0066,MailerSend,Voice,Voice API,Ireland,2021-08-30,True
+CLT0066,MailerSend,Email,Email API,Ireland,2021-08-27,True
+CLT0066,MailerSend,SMS,P2P SMS,Ireland,2021-09-27,True
+CLT0067,MessageMedia,SMS,P2P SMS,Canada,2025-09-13,False
+CLT0067,MessageMedia,Verification,Flash Call Verification,United States,2025-09-01,False
+CLT0068,MailerSend,Verification,Flash Call Verification,Canada,2024-01-15,True
+CLT0068,MailerSend,WhatsApp Business,WhatsApp API,Canada,2024-01-07,True
+CLT0068,MailerSend,Voice,SIP Trunking,United States,2024-01-19,True
+CLT0069,MessageMedia,Email,Marketing Email,Brazil,2022-10-07,True
+CLT0069,MessageMedia,Voice,SIP Trunking,Argentina,2022-09-17,True
+CLT0069,MessageMedia,Verification,2FA SMS,Brazil,2022-09-14,True
+CLT0069,MessageMedia,SMS,SMS API,Brazil,2022-08-30,True
+CLT0070,MailerSend,SMS,A2P SMS,Ireland,2024-06-08,True
+CLT0070,MailerSend,WhatsApp Business,WhatsApp Business Platform,Ireland,2024-07-01,True
+CLT0070,MailerSend,Email,Transactional Email,Ireland,2024-06-03,True
+CLT0071,MailerSend,SMS,A2P SMS,Ireland,2023-12-21,True
+CLT0071,MailerSend,Voice,SIP Trunking,Ireland,2023-12-08,True
+CLT0071,MailerSend,Email,Email API,United Kingdom,2023-11-29,True
+CLT0071,MailerSend,Verification,2FA SMS,United Kingdom,2023-12-07,True
+CLT0072,MailerSend,SMS,A2P SMS,Portugal,2025-12-24,True
+CLT0072,MailerSend,Email,Marketing Email,Portugal,2025-12-07,True
+CLT0073,MailerSend,Email,Email API,Singapore,2026-02-22,False
+CLT0073,MailerSend,SMS,P2P SMS,Japan,2026-02-25,False
+CLT0074,MailerSend,SMS,P2P SMS,Ireland,2025-09-11,True
+CLT0075,Sinch Engage,Verification,Flash Call Verification,Ireland,2024-10-25,False
+CLT0075,Sinch Engage,SMS,SMS API,Ireland,2024-11-01,False
+CLT0076,MessageMedia,Verification,Flash Call Verification,Germany,2024-09-27,False
+CLT0076,MessageMedia,SMS,A2P SMS,Germany,2024-09-30,False
+CLT0076,MessageMedia,Voice,Voice API,Austria,2024-08-22,False
+CLT0077,MessageMedia,Verification,Data Verification,Canada,2025-07-12,True
+CLT0077,MessageMedia,SMS,SMS API,United States,2025-06-12,True
+CLT0078,MailerSend,Voice,Voice API,Singapore,2025-03-10,True
+CLT0078,MailerSend,Verification,Flash Call Verification,Japan,2025-01-28,True
+CLT0079,MessageMedia,Verification,Data Verification,Brazil,2025-09-06,True
+CLT0079,MessageMedia,SMS,A2P SMS,Brazil,2025-08-13,True
+CLT0080,MailerSend,SMS,A2P SMS,India,2026-02-07,False
+CLT0080,MailerSend,Voice,SIP Trunking,Australia,2026-02-22,False
+CLT0081,MessageMedia,WhatsApp Business,WhatsApp API,Canada,2022-12-19,True
+CLT0081,MessageMedia,Voice,SIP Trunking,United States,2022-11-26,True
+CLT0081,MessageMedia,Verification,2FA SMS,United States,2022-12-14,True
+CLT0081,MessageMedia,SMS,P2P SMS,Canada,2022-12-31,True
+CLT0082,MessageMedia,Verification,2FA SMS,Mexico,2023-10-07,True
+CLT0082,MessageMedia,Voice,SIP Trunking,Argentina,2023-09-20,True
+CLT0082,MessageMedia,SMS,P2P SMS,Brazil,2023-08-24,True
+CLT0083,MailerSend,SMS,SMS API,United Kingdom,2025-12-06,True
+CLT0083,MailerSend,Verification,Flash Call Verification,Ireland,2026-01-01,True
+CLT0084,Sinch Core,Email,Marketing Email,Italy,2025-07-13,True
+CLT0084,Sinch Core,SMS,P2P SMS,France,2025-08-08,True
+CLT0085,MailerSend,Email,Email API,Australia,2024-01-04,True
+CLT0085,MailerSend,Voice,Contact Center Voice,Japan,2023-12-19,True
+CLT0085,MailerSend,WhatsApp Business,WhatsApp Business Platform,India,2024-01-11,True
+CLT0086,MessageMedia,Verification,Data Verification,Italy,2024-10-05,True
+CLT0086,MessageMedia,SMS,P2P SMS,Spain,2024-09-18,True
+CLT0086,MessageMedia,Voice,SIP Trunking,France,2024-08-14,True
+CLT0087,Sinch Engage,Voice,Voice API,Mexico,2022-05-31,True
+CLT0087,Sinch Engage,SMS,P2P SMS,Colombia,2022-06-15,True
+CLT0087,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Brazil,2022-06-05,True
+CLT0087,Sinch Engage,Verification,Flash Call Verification,Brazil,2022-05-31,True
+CLT0088,MessageMedia,SMS,SMS API,Canada,2025-10-11,False
+CLT0088,MessageMedia,Verification,Data Verification,United States,2025-10-10,False
+CLT0089,Sinch Engage,Verification,Data Verification,Austria,2026-05-01,False
+CLT0090,Sinch Core,SMS,P2P SMS,Brazil,2024-11-27,False
+CLT0090,Sinch Core,Voice,Voice API,Mexico,2024-11-30,False
+CLT0090,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Mexico,2024-11-21,False
+CLT0091,MailerSend,Voice,Contact Center Voice,Denmark,2025-01-21,False
+CLT0092,MailerSend,SMS,SMS API,Japan,2021-10-13,True
+CLT0092,MailerSend,Voice,Contact Center Voice,India,2021-10-15,True
+CLT0093,MailerSend,SMS,P2P SMS,Italy,2025-05-15,True
+CLT0093,MailerSend,Email,Marketing Email,France,2025-06-28,True
+CLT0094,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Finland,2023-10-07,True
+CLT0094,Sinch Core,Verification,Flash Call Verification,Norway,2023-08-19,True
+CLT0094,Sinch Core,SMS,A2P SMS,Sweden,2023-08-19,True
+CLT0095,MailerSend,WhatsApp Business,WhatsApp API,Mexico,2024-02-29,True
+CLT0095,MailerSend,Verification,2FA SMS,Argentina,2024-02-20,True
+CLT0095,MailerSend,SMS,SMS API,Mexico,2024-02-29,True
+CLT0095,MailerSend,Voice,Voice API,Mexico,2024-02-22,True
+CLT0096,MessageMedia,SMS,A2P SMS,Argentina,2025-07-24,True
+CLT0096,MessageMedia,Verification,Flash Call Verification,Argentina,2025-07-17,True
+CLT0097,Sinch Engage,Voice,Contact Center Voice,Japan,2025-08-25,True
+CLT0098,Sinch Core,SMS,P2P SMS,Austria,2024-01-08,True
+CLT0098,Sinch Core,Verification,2FA SMS,Germany,2023-12-09,True
+CLT0098,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Switzerland,2023-12-01,True
+CLT0099,Sinch Core,WhatsApp Business,WhatsApp Business Platform,United States,2024-08-23,True
+CLT0100,Sinch Engage,SMS,A2P SMS,Portugal,2024-10-03,True
+CLT0100,Sinch Engage,WhatsApp Business,WhatsApp API,Portugal,2024-10-19,True
+CLT0101,Sinch Core,Voice,Voice API,Austria,2024-10-17,True
+CLT0101,Sinch Core,Verification,Data Verification,Switzerland,2024-11-16,True
+CLT0102,MailerSend,Verification,Data Verification,France,2025-06-12,True
+CLT0102,MailerSend,SMS,A2P SMS,Spain,2025-07-03,True
+CLT0103,MailerSend,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2021-11-19,True
+CLT0103,MailerSend,Verification,2FA SMS,Ireland,2021-12-11,True
+CLT0104,Sinch Engage,SMS,A2P SMS,Sweden,2025-02-12,False
+CLT0104,Sinch Engage,Email,Email API,Denmark,2025-03-30,False
+CLT0105,Sinch Engage,SMS,A2P SMS,Canada,2021-08-24,True
+CLT0105,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Canada,2021-08-20,True
+CLT0105,Sinch Engage,Email,Transactional Email,United States,2021-08-09,True
+CLT0106,Sinch Engage,SMS,P2P SMS,Austria,2021-07-12,True
+CLT0106,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Austria,2021-06-27,True
+CLT0106,Sinch Engage,Email,Marketing Email,Germany,2021-06-03,True
+CLT0107,MailerSend,SMS,A2P SMS,Switzerland,2024-09-07,True
+CLT0107,MailerSend,Email,Email API,Austria,2024-08-22,True
+CLT0107,MailerSend,Verification,2FA SMS,Germany,2024-09-30,True
+CLT0108,Sinch Core,Email,Transactional Email,Denmark,2024-12-11,True
+CLT0108,Sinch Core,WhatsApp Business,WhatsApp API,Finland,2024-11-26,True
+CLT0109,MailerSend,WhatsApp Business,WhatsApp Business Platform,Switzerland,2023-05-29,True
+CLT0109,MailerSend,Voice,Contact Center Voice,Austria,2023-05-20,True
+CLT0109,MailerSend,Email,Marketing Email,Switzerland,2023-06-13,True
+CLT0110,Sinch Engage,WhatsApp Business,WhatsApp API,France,2024-07-31,True
+CLT0110,Sinch Engage,Email,Transactional Email,Italy,2024-06-21,True
+CLT0111,MailerSend,SMS,SMS API,Norway,2025-05-13,True
+CLT0111,MailerSend,Verification,Data Verification,Norway,2025-07-09,True
+CLT0112,Sinch Engage,Voice,Contact Center Voice,Ireland,2023-05-15,True
+CLT0112,Sinch Engage,Verification,2FA SMS,United Kingdom,2023-05-03,True
+CLT0112,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-04-28,True
+CLT0112,Sinch Engage,SMS,P2P SMS,United Kingdom,2023-05-12,True
+CLT0113,MessageMedia,SMS,SMS API,Ireland,2025-10-25,True
+CLT0113,MessageMedia,Voice,SIP Trunking,Ireland,2025-10-27,True
+CLT0114,Sinch Core,Voice,Contact Center Voice,Argentina,2024-05-06,True
+CLT0114,Sinch Core,Verification,Flash Call Verification,Mexico,2024-04-15,True
+CLT0115,MessageMedia,Verification,Flash Call Verification,United Kingdom,2023-07-29,True
+CLT0115,MessageMedia,Voice,Contact Center Voice,Ireland,2023-09-14,True
+CLT0115,MessageMedia,WhatsApp Business,WhatsApp API,Ireland,2023-08-24,True
+CLT0116,MailerSend,Voice,Voice API,Italy,2022-03-03,True
+CLT0116,MailerSend,SMS,A2P SMS,Portugal,2022-04-02,True
+CLT0116,MailerSend,WhatsApp Business,WhatsApp Business Platform,Italy,2022-03-16,True
+CLT0117,Sinch Core,SMS,SMS API,Denmark,2023-12-26,True
+CLT0117,Sinch Core,Voice,Contact Center Voice,Norway,2024-01-08,True
+CLT0118,Sinch Core,SMS,P2P SMS,Mexico,2025-02-07,True
+CLT0118,Sinch Core,Verification,Flash Call Verification,Argentina,2025-02-11,True
+CLT0119,MessageMedia,SMS,A2P SMS,Finland,2023-08-31,True
+CLT0119,MessageMedia,Email,Marketing Email,Norway,2023-09-09,True
+CLT0119,MessageMedia,Voice,SIP Trunking,Finland,2023-09-08,True
+CLT0120,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Norway,2024-09-29,True
+CLT0120,Sinch Engage,Email,Email API,Norway,2024-09-29,True
+CLT0121,Sinch Core,Email,Marketing Email,Canada,2024-09-13,True
+CLT0121,Sinch Core,SMS,A2P SMS,Canada,2024-08-15,True
+CLT0121,Sinch Core,WhatsApp Business,WhatsApp Business Platform,United States,2024-10-03,True
+CLT0122,Sinch Engage,SMS,P2P SMS,United Kingdom,2023-08-13,True
+CLT0122,Sinch Engage,Voice,Contact Center Voice,United Kingdom,2023-09-14,True
+CLT0122,Sinch Engage,WhatsApp Business,WhatsApp API,Ireland,2023-08-17,True
+CLT0122,Sinch Engage,Email,Marketing Email,Ireland,2023-09-12,True
+CLT0123,MessageMedia,SMS,P2P SMS,Australia,2024-11-25,True
+CLT0123,MessageMedia,Email,Email API,Australia,2024-12-10,True
+CLT0123,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Japan,2024-11-30,True
+CLT0124,MessageMedia,Verification,2FA SMS,Ireland,2025-12-10,False
+CLT0124,MessageMedia,SMS,P2P SMS,Ireland,2025-11-29,False
+CLT0125,MessageMedia,Voice,Voice API,Brazil,2022-07-14,True
+CLT0125,MessageMedia,SMS,SMS API,Colombia,2022-06-17,True
+CLT0125,MessageMedia,Verification,Data Verification,Argentina,2022-07-19,True
+CLT0125,MessageMedia,Email,Email API,Brazil,2022-07-24,True
+CLT0126,Sinch Engage,Email,Transactional Email,Ireland,2025-10-27,True
+CLT0126,Sinch Engage,SMS,P2P SMS,Ireland,2025-09-23,True
+CLT0127,MailerSend,SMS,SMS API,Portugal,2023-12-04,False
+CLT0127,MailerSend,Email,Marketing Email,Italy,2024-01-11,False
+CLT0127,MailerSend,Verification,2FA SMS,Italy,2024-01-16,False
+CLT0127,MailerSend,Voice,Voice API,Spain,2023-11-25,False
+CLT0128,MessageMedia,WhatsApp Business,WhatsApp API,United States,2023-12-06,True
+CLT0128,MessageMedia,Voice,SIP Trunking,United States,2023-11-24,True
+CLT0128,MessageMedia,Verification,2FA SMS,Canada,2023-12-28,True
+CLT0129,MessageMedia,Verification,Flash Call Verification,Spain,2025-11-05,True
+CLT0129,MessageMedia,SMS,A2P SMS,Italy,2025-09-10,True
+CLT0130,Sinch Engage,SMS,P2P SMS,Australia,2025-11-06,False
+CLT0130,Sinch Engage,Email,Marketing Email,Japan,2025-10-30,False
+CLT0131,MessageMedia,SMS,A2P SMS,Germany,2022-08-03,True
+CLT0131,MessageMedia,Email,Transactional Email,Switzerland,2022-07-15,True
+CLT0131,MessageMedia,Voice,SIP Trunking,Austria,2022-07-29,True
+CLT0132,MailerSend,Voice,SIP Trunking,India,2023-12-15,True
+CLT0132,MailerSend,WhatsApp Business,WhatsApp API,Australia,2023-12-02,True
+CLT0132,MailerSend,Email,Email API,India,2024-01-15,True
+CLT0132,MailerSend,SMS,SMS API,Australia,2023-12-27,True
+CLT0133,Sinch Core,SMS,P2P SMS,Austria,2026-01-28,True
+CLT0133,Sinch Core,Voice,Contact Center Voice,Switzerland,2025-12-06,True
+CLT0134,Sinch Engage,SMS,A2P SMS,Ireland,2023-08-09,True
+CLT0134,Sinch Engage,Voice,Contact Center Voice,Ireland,2023-08-07,True
+CLT0134,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-07-22,True
+CLT0135,Sinch Engage,Voice,Contact Center Voice,Ireland,2024-08-19,True
+CLT0135,Sinch Engage,SMS,A2P SMS,Ireland,2024-08-17,True
+CLT0135,Sinch Engage,Verification,Data Verification,Ireland,2024-08-28,True
+CLT0136,Sinch Core,SMS,P2P SMS,Norway,2025-11-15,False
+CLT0136,Sinch Core,Verification,Data Verification,Denmark,2025-12-23,False
+CLT0137,Sinch Engage,SMS,A2P SMS,United States,2024-09-01,False
+CLT0137,Sinch Engage,Verification,2FA SMS,Canada,2024-08-05,False
+CLT0138,MessageMedia,SMS,A2P SMS,Australia,2023-06-07,True
+CLT0138,MessageMedia,Email,Transactional Email,Singapore,2023-05-29,True
+CLT0139,MessageMedia,WhatsApp Business,WhatsApp API,Austria,2024-02-24,True
+CLT0139,MessageMedia,Voice,Voice API,Germany,2024-02-06,True
+CLT0139,MessageMedia,SMS,A2P SMS,Germany,2024-02-10,True
+CLT0140,MessageMedia,SMS,P2P SMS,Singapore,2025-10-17,True
+CLT0140,MessageMedia,Verification,2FA SMS,Singapore,2025-10-18,True
+CLT0141,MailerSend,SMS,P2P SMS,Portugal,2022-09-02,True
+CLT0141,MailerSend,WhatsApp Business,WhatsApp API,Spain,2022-10-17,True
+CLT0141,MailerSend,Voice,Contact Center Voice,Spain,2022-10-21,True
+CLT0142,MessageMedia,Verification,2FA SMS,Ireland,2022-03-11,True
+CLT0142,MessageMedia,Email,Email API,Ireland,2022-03-29,True
+CLT0142,MessageMedia,Voice,Contact Center Voice,United Kingdom,2022-03-02,True
+CLT0143,Sinch Engage,SMS,P2P SMS,United States,2024-09-20,True
+CLT0143,Sinch Engage,Email,Transactional Email,United States,2024-09-18,True
+CLT0144,MailerSend,SMS,A2P SMS,Finland,2025-09-22,True
+CLT0144,MailerSend,Verification,Flash Call Verification,Norway,2025-09-19,True
+CLT0145,MessageMedia,SMS,P2P SMS,Norway,2022-08-14,False
+CLT0145,MessageMedia,Voice,Voice API,Finland,2022-08-06,False
+CLT0146,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Portugal,2024-06-16,False
+CLT0146,MessageMedia,Email,Marketing Email,France,2024-06-14,False
+CLT0147,Sinch Core,Email,Transactional Email,United States,2024-10-27,True
+CLT0147,Sinch Core,SMS,A2P SMS,Canada,2024-11-20,True
+CLT0148,MessageMedia,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-06-02,True
+CLT0148,MessageMedia,SMS,SMS API,United Kingdom,2023-05-22,True
+CLT0148,MessageMedia,Verification,Data Verification,Ireland,2023-07-17,True
+CLT0149,MessageMedia,SMS,SMS API,Colombia,2025-10-23,True
+CLT0149,MessageMedia,Voice,Contact Center Voice,Colombia,2025-10-20,True
+CLT0150,Sinch Core,Voice,Contact Center Voice,India,2021-11-02,True
+CLT0150,Sinch Core,WhatsApp Business,WhatsApp API,India,2021-10-02,True
+CLT0150,Sinch Core,Verification,Data Verification,India,2021-11-05,True
+CLT0150,Sinch Core,SMS,A2P SMS,Singapore,2021-10-02,True
+CLT0151,MailerSend,SMS,SMS API,Finland,2025-10-16,True
+CLT0152,Sinch Engage,SMS,A2P SMS,Denmark,2024-02-10,True
+CLT0152,Sinch Engage,Voice,Contact Center Voice,Norway,2024-01-25,True
+CLT0152,Sinch Engage,Verification,2FA SMS,Denmark,2024-02-14,True
+CLT0152,Sinch Engage,Email,Transactional Email,Denmark,2023-12-24,True
+CLT0153,MessageMedia,Verification,Data Verification,Colombia,2024-01-13,True
+CLT0153,MessageMedia,SMS,P2P SMS,Colombia,2023-12-07,True
+CLT0153,MessageMedia,Voice,Voice API,Brazil,2024-01-13,True
+CLT0153,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Brazil,2023-12-28,True
+CLT0154,MessageMedia,Email,Email API,Japan,2024-06-07,True
+CLT0154,MessageMedia,SMS,P2P SMS,Singapore,2024-06-25,True
+CLT0155,MessageMedia,SMS,SMS API,United Kingdom,2023-05-04,True
+CLT0155,MessageMedia,Voice,Voice API,United Kingdom,2023-05-31,True
+CLT0155,MessageMedia,Verification,Flash Call Verification,United Kingdom,2023-05-22,True
+CLT0155,MessageMedia,Email,Transactional Email,Ireland,2023-05-06,True
+CLT0156,MessageMedia,Voice,Voice API,Mexico,2024-06-17,True
+CLT0156,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Argentina,2024-07-01,True
+CLT0156,MessageMedia,SMS,A2P SMS,Argentina,2024-06-21,True
+CLT0157,Sinch Core,SMS,SMS API,Portugal,2023-02-23,True
+CLT0157,Sinch Core,Voice,Contact Center Voice,Portugal,2023-01-22,True
+CLT0157,Sinch Core,Verification,Data Verification,Italy,2023-02-24,True
+CLT0157,Sinch Core,WhatsApp Business,WhatsApp API,Italy,2023-02-18,True
+CLT0158,Sinch Core,SMS,A2P SMS,United Kingdom,2025-05-25,True
+CLT0158,Sinch Core,Voice,Contact Center Voice,Ireland,2025-06-26,True
+CLT0159,MessageMedia,Email,Email API,France,2025-06-29,True
+CLT0159,MessageMedia,SMS,A2P SMS,Portugal,2025-06-01,True
+CLT0160,MailerSend,Voice,Voice API,Italy,2023-07-17,True
+CLT0160,MailerSend,Verification,2FA SMS,France,2023-07-27,True
+CLT0161,Sinch Engage,SMS,A2P SMS,United Kingdom,2023-05-01,True
+CLT0161,Sinch Engage,Verification,2FA SMS,Ireland,2023-05-01,True
+CLT0161,Sinch Engage,Voice,Voice API,Ireland,2023-04-22,True
+CLT0161,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-06-07,True
+CLT0162,MailerSend,SMS,A2P SMS,Switzerland,2025-11-29,True
+CLT0162,MailerSend,Email,Marketing Email,Germany,2025-12-02,True
+CLT0163,Sinch Core,SMS,SMS API,Switzerland,2025-10-18,True
+CLT0163,Sinch Core,Email,Marketing Email,Austria,2025-09-10,True
+CLT0164,Sinch Engage,WhatsApp Business,WhatsApp API,Ireland,2024-09-10,True
+CLT0164,Sinch Engage,SMS,P2P SMS,Ireland,2024-08-31,True
+CLT0165,Sinch Core,SMS,A2P SMS,Argentina,2025-09-16,True
+CLT0166,Sinch Core,SMS,SMS API,Ireland,2022-03-25,True
+CLT0166,Sinch Core,Voice,Contact Center Voice,United Kingdom,2022-03-10,True
+CLT0166,Sinch Core,WhatsApp Business,WhatsApp API,United Kingdom,2022-02-10,True
+CLT0166,Sinch Core,Verification,Data Verification,Ireland,2022-02-15,True
+CLT0167,MessageMedia,Verification,Data Verification,Sweden,2024-06-09,True
+CLT0167,MessageMedia,SMS,A2P SMS,Sweden,2024-06-05,True
+CLT0167,MessageMedia,Voice,Contact Center Voice,Norway,2024-06-11,True
+CLT0168,Sinch Core,SMS,A2P SMS,Norway,2022-02-08,True
+CLT0168,Sinch Core,Voice,Voice API,Finland,2022-01-03,True
+CLT0168,Sinch Core,WhatsApp Business,WhatsApp API,Denmark,2022-01-05,True
+CLT0168,Sinch Core,Verification,Flash Call Verification,Sweden,2022-01-19,True
+CLT0169,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Portugal,2025-04-29,True
+CLT0169,Sinch Core,Email,Transactional Email,France,2025-03-16,True
+CLT0170,MailerSend,Email,Transactional Email,United Kingdom,2025-03-05,True
+CLT0170,MailerSend,SMS,P2P SMS,United Kingdom,2025-03-02,True
+CLT0171,Sinch Engage,Voice,SIP Trunking,United States,2023-11-04,True
+CLT0171,Sinch Engage,SMS,A2P SMS,Canada,2023-11-08,True
+CLT0171,Sinch Engage,WhatsApp Business,WhatsApp API,United States,2023-12-16,True
+CLT0172,Sinch Core,WhatsApp Business,WhatsApp API,France,2023-09-22,True
+CLT0172,Sinch Core,Email,Marketing Email,Spain,2023-09-24,True
+CLT0172,Sinch Core,SMS,A2P SMS,Italy,2023-10-06,True
+CLT0172,Sinch Core,Voice,Contact Center Voice,Italy,2023-09-11,True
+CLT0173,MailerSend,SMS,A2P SMS,Australia,2024-12-24,True
+CLT0173,MailerSend,Email,Marketing Email,India,2024-12-12,True
+CLT0174,MessageMedia,Voice,Contact Center Voice,United Kingdom,2021-07-16,False
+CLT0174,MessageMedia,Verification,Flash Call Verification,United Kingdom,2021-06-25,False
+CLT0175,Sinch Core,Verification,Flash Call Verification,India,2025-07-03,True
+CLT0175,Sinch Core,SMS,P2P SMS,Japan,2025-08-03,True
+CLT0176,Sinch Engage,Email,Transactional Email,Portugal,2022-12-18,True
+CLT0176,Sinch Engage,SMS,SMS API,Spain,2022-12-24,True
+CLT0176,Sinch Engage,Voice,Voice API,Portugal,2022-11-30,True
+CLT0177,MailerSend,Email,Transactional Email,India,2024-12-08,True
+CLT0177,MailerSend,SMS,P2P SMS,Singapore,2024-11-03,True
+CLT0177,MailerSend,Verification,Data Verification,Singapore,2024-11-17,True
+CLT0178,Sinch Engage,WhatsApp Business,WhatsApp API,Switzerland,2024-07-04,True
+CLT0178,Sinch Engage,Voice,Contact Center Voice,Germany,2024-06-08,True
+CLT0178,Sinch Engage,SMS,P2P SMS,Austria,2024-07-09,True
+CLT0179,MailerSend,Email,Email API,France,2024-09-07,True
+CLT0179,MailerSend,WhatsApp Business,WhatsApp Business Platform,France,2024-09-29,True
+CLT0179,MailerSend,SMS,SMS API,France,2024-08-13,True
+CLT0180,MailerSend,Verification,Flash Call Verification,Canada,2024-05-30,True
+CLT0180,MailerSend,Voice,SIP Trunking,Canada,2024-06-01,True
+CLT0180,MailerSend,SMS,SMS API,United States,2024-05-24,True
+CLT0181,MailerSend,Verification,Data Verification,United Kingdom,2025-07-10,True
+CLT0181,MailerSend,SMS,SMS API,United Kingdom,2025-08-08,True
+CLT0182,Sinch Core,SMS,P2P SMS,India,2026-03-01,True
+CLT0183,MessageMedia,SMS,SMS API,Switzerland,2022-04-25,True
+CLT0183,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Germany,2022-03-14,True
+CLT0183,MessageMedia,Voice,SIP Trunking,Austria,2022-03-05,True
+CLT0183,MessageMedia,Verification,Data Verification,Austria,2022-04-04,True
+CLT0184,Sinch Core,SMS,A2P SMS,Ireland,2024-06-15,True
+CLT0184,Sinch Core,Verification,2FA SMS,United Kingdom,2024-06-16,True
+CLT0185,Sinch Core,Voice,SIP Trunking,Ireland,2025-02-26,True
+CLT0185,Sinch Core,SMS,A2P SMS,Ireland,2025-04-05,True
+CLT0186,MailerSend,Voice,Voice API,Colombia,2026-03-05,False
+CLT0186,MailerSend,SMS,A2P SMS,Argentina,2026-03-19,False
+CLT0187,Sinch Core,SMS,A2P SMS,India,2025-06-27,False
+CLT0187,Sinch Core,Verification,2FA SMS,Singapore,2025-05-15,False
+CLT0188,Sinch Core,Email,Email API,United Kingdom,2023-07-03,True
+CLT0188,Sinch Core,Verification,2FA SMS,United Kingdom,2023-07-13,True
+CLT0188,Sinch Core,SMS,SMS API,United Kingdom,2023-08-15,True
+CLT0188,Sinch Core,Voice,SIP Trunking,United Kingdom,2023-06-21,True
+CLT0189,MessageMedia,Voice,Contact Center Voice,Canada,2023-08-06,True
+CLT0189,MessageMedia,SMS,SMS API,Canada,2023-08-14,True
+CLT0189,MessageMedia,Verification,2FA SMS,Canada,2023-07-20,True
+CLT0189,MessageMedia,Email,Email API,United States,2023-08-06,True
+CLT0190,MailerSend,Verification,Flash Call Verification,Brazil,2025-09-20,True
+CLT0190,MailerSend,SMS,SMS API,Argentina,2025-09-04,True
+CLT0191,MailerSend,Verification,Data Verification,Germany,2024-03-02,True
+CLT0191,MailerSend,SMS,P2P SMS,Austria,2024-01-18,True
+CLT0191,MailerSend,WhatsApp Business,WhatsApp Business Platform,Germany,2024-02-25,True
+CLT0192,MessageMedia,WhatsApp Business,WhatsApp API,Switzerland,2024-04-19,False
+CLT0192,MessageMedia,Email,Transactional Email,Germany,2024-04-28,False
+CLT0193,MailerSend,SMS,A2P SMS,France,2022-01-05,True
+CLT0193,MailerSend,Voice,Voice API,Spain,2021-12-17,True
+CLT0193,MailerSend,WhatsApp Business,WhatsApp API,Portugal,2021-12-27,True
+CLT0193,MailerSend,Verification,2FA SMS,France,2021-12-20,True
+CLT0194,Sinch Engage,Verification,2FA SMS,Spain,2022-12-01,True
+CLT0194,Sinch Engage,Voice,SIP Trunking,Italy,2022-11-19,True
+CLT0194,Sinch Engage,SMS,A2P SMS,Portugal,2022-11-03,True
+CLT0194,Sinch Engage,Email,Transactional Email,Portugal,2022-11-12,True
+CLT0195,Sinch Core,SMS,A2P SMS,Spain,2025-01-12,True
+CLT0195,Sinch Core,Voice,SIP Trunking,Spain,2025-02-19,True
+CLT0195,Sinch Core,Verification,2FA SMS,Portugal,2025-03-08,True
+CLT0196,MailerSend,SMS,A2P SMS,Sweden,2022-11-16,True
+CLT0196,MailerSend,Verification,Data Verification,Denmark,2022-11-19,True
+CLT0197,MailerSend,SMS,A2P SMS,Portugal,2025-05-31,False
+CLT0197,MailerSend,Voice,Voice API,Spain,2025-05-15,False
+CLT0198,Sinch Engage,SMS,P2P SMS,Portugal,2025-04-20,True
+CLT0198,Sinch Engage,Email,Email API,Spain,2025-05-01,True
+CLT0199,Sinch Engage,Voice,Contact Center Voice,Brazil,2022-10-11,True
+CLT0199,Sinch Engage,Email,Transactional Email,Brazil,2022-10-23,True
+CLT0199,Sinch Engage,Verification,Data Verification,Mexico,2022-09-03,True
+CLT0199,Sinch Engage,SMS,SMS API,Colombia,2022-10-15,True
+CLT0200,MailerSend,SMS,SMS API,Canada,2024-11-02,True
+CLT0200,MailerSend,WhatsApp Business,WhatsApp API,United States,2024-11-26,True
+CLT0200,MailerSend,Email,Transactional Email,United States,2024-12-08,True
+CLT0201,Sinch Core,Verification,Flash Call Verification,Japan,2023-01-14,True
+CLT0201,Sinch Core,SMS,A2P SMS,Singapore,2023-01-21,True
+CLT0201,Sinch Core,Voice,Contact Center Voice,Singapore,2023-01-30,True
+CLT0201,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Japan,2023-02-20,True
+CLT0202,Sinch Engage,Email,Marketing Email,United States,2024-10-20,True
+CLT0203,Sinch Core,WhatsApp Business,WhatsApp API,Finland,2023-05-09,True
+CLT0203,Sinch Core,Voice,Contact Center Voice,Finland,2023-05-07,True
+CLT0203,Sinch Core,SMS,SMS API,Denmark,2023-05-07,True
+CLT0204,Sinch Core,SMS,A2P SMS,India,2022-08-18,True
+CLT0204,Sinch Core,Voice,Voice API,Japan,2022-07-24,True
+CLT0204,Sinch Core,Email,Transactional Email,Japan,2022-07-15,True
+CLT0204,Sinch Core,WhatsApp Business,WhatsApp API,Japan,2022-07-26,True
+CLT0205,Sinch Engage,SMS,SMS API,Japan,2023-08-25,True
+CLT0205,Sinch Engage,Voice,SIP Trunking,Australia,2023-09-07,True
+CLT0205,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Australia,2023-09-18,True
+CLT0206,Sinch Engage,SMS,SMS API,Italy,2025-11-29,True
+CLT0206,Sinch Engage,Verification,Flash Call Verification,Italy,2025-11-08,True
+CLT0207,MessageMedia,SMS,A2P SMS,United States,2025-07-08,True
+CLT0207,MessageMedia,Verification,2FA SMS,United States,2025-06-21,True
+CLT0208,MessageMedia,SMS,SMS API,Canada,2025-08-27,True
+CLT0208,MessageMedia,Verification,Data Verification,United States,2025-08-23,True
+CLT0209,Sinch Engage,Voice,SIP Trunking,Germany,2025-01-12,True
+CLT0209,Sinch Engage,WhatsApp Business,WhatsApp API,Switzerland,2025-01-17,True
+CLT0210,Sinch Engage,Email,Marketing Email,United States,2023-12-18,True
+CLT0210,Sinch Engage,SMS,P2P SMS,United States,2024-01-17,True
+CLT0211,MailerSend,SMS,SMS API,Portugal,2025-12-26,True
+CLT0211,MailerSend,Email,Email API,Spain,2026-01-01,True
+CLT0212,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Colombia,2023-09-04,True
+CLT0212,Sinch Core,Voice,SIP Trunking,Argentina,2023-09-10,True
+CLT0212,Sinch Core,Verification,Data Verification,Brazil,2023-10-03,True
+CLT0213,Sinch Core,WhatsApp Business,WhatsApp API,Denmark,2023-07-17,True
+CLT0213,Sinch Core,Verification,2FA SMS,Finland,2023-05-27,True
+CLT0213,Sinch Core,SMS,A2P SMS,Sweden,2023-06-04,True
+CLT0214,MailerSend,Verification,Data Verification,Ireland,2023-01-03,True
+CLT0214,MailerSend,Email,Marketing Email,Ireland,2023-01-18,True
+CLT0214,MailerSend,Voice,Voice API,Ireland,2023-01-31,True
+CLT0214,MailerSend,SMS,SMS API,Ireland,2023-01-07,True
+CLT0215,MessageMedia,Verification,Data Verification,Switzerland,2023-09-20,True
+CLT0215,MessageMedia,Voice,Contact Center Voice,Germany,2023-11-15,True
+CLT0215,MessageMedia,SMS,A2P SMS,Germany,2023-09-21,True
+CLT0215,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Germany,2023-09-23,True
+CLT0216,Sinch Engage,SMS,P2P SMS,Japan,2023-09-12,True
+CLT0216,Sinch Engage,Verification,Flash Call Verification,Australia,2023-10-02,True
+CLT0216,Sinch Engage,Voice,Voice API,Australia,2023-08-31,True
+CLT0217,MailerSend,SMS,SMS API,Mexico,2025-09-15,True
+CLT0217,MailerSend,Email,Email API,Argentina,2025-10-05,True
+CLT0218,MessageMedia,SMS,P2P SMS,Finland,2025-04-12,True
+CLT0218,MessageMedia,Voice,SIP Trunking,Denmark,2025-04-14,True
+CLT0218,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Denmark,2025-04-20,True
+CLT0219,Sinch Core,WhatsApp Business,WhatsApp API,Australia,2024-01-30,True
+CLT0219,Sinch Core,Voice,SIP Trunking,Australia,2023-12-20,True
+CLT0219,Sinch Core,Verification,Flash Call Verification,Australia,2023-12-24,True
+CLT0220,MailerSend,Verification,2FA SMS,United States,2025-08-01,True
+CLT0220,MailerSend,SMS,P2P SMS,United States,2025-08-06,True
+CLT0221,MailerSend,Voice,SIP Trunking,France,2025-02-20,True
+CLT0221,MailerSend,SMS,A2P SMS,Italy,2025-01-25,True
+CLT0222,MailerSend,SMS,A2P SMS,Singapore,2025-05-21,True
+CLT0222,MailerSend,Email,Marketing Email,Singapore,2025-05-18,True
+CLT0223,MailerSend,Voice,SIP Trunking,Switzerland,2024-05-04,True
+CLT0223,MailerSend,Verification,2FA SMS,Austria,2024-04-20,True
+CLT0223,MailerSend,SMS,A2P SMS,Switzerland,2024-05-31,True
+CLT0224,MessageMedia,Voice,Contact Center Voice,Finland,2024-05-08,True
+CLT0224,MessageMedia,SMS,SMS API,Finland,2024-04-23,True
+CLT0224,MessageMedia,Verification,Flash Call Verification,Sweden,2024-04-25,True
+CLT0225,MessageMedia,SMS,A2P SMS,India,2024-01-18,True
+CLT0225,MessageMedia,Voice,Contact Center Voice,Singapore,2024-02-14,True
+CLT0225,MessageMedia,WhatsApp Business,WhatsApp API,Japan,2024-01-10,True
+CLT0225,MessageMedia,Verification,Flash Call Verification,Australia,2023-12-17,True
+CLT0226,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Argentina,2024-04-18,True
+CLT0226,MessageMedia,Verification,Data Verification,Colombia,2024-04-11,True
+CLT0226,MessageMedia,SMS,P2P SMS,Brazil,2024-04-08,True
+CLT0226,MessageMedia,Voice,Contact Center Voice,Brazil,2024-03-26,True
+CLT0227,Sinch Core,Voice,Contact Center Voice,Canada,2025-01-30,True
+CLT0227,Sinch Core,Verification,Flash Call Verification,Canada,2025-02-26,True
+CLT0228,MailerSend,SMS,A2P SMS,Brazil,2025-09-07,True
+CLT0229,MessageMedia,SMS,A2P SMS,Brazil,2021-12-17,True
+CLT0229,MessageMedia,Email,Email API,Mexico,2021-11-22,True
+CLT0229,MessageMedia,Verification,2FA SMS,Argentina,2021-11-05,True
+CLT0229,MessageMedia,Voice,Voice API,Mexico,2021-12-16,True
+CLT0230,MessageMedia,WhatsApp Business,WhatsApp API,Sweden,2022-11-04,True
+CLT0230,MessageMedia,SMS,P2P SMS,Denmark,2022-11-19,True
+CLT0231,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United States,2023-06-25,True
+CLT0231,Sinch Engage,Email,Transactional Email,Canada,2023-07-12,True
+CLT0231,Sinch Engage,Voice,SIP Trunking,United States,2023-06-03,True
+CLT0231,Sinch Engage,SMS,P2P SMS,United States,2023-05-24,True
+CLT0232,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Argentina,2025-03-19,True
+CLT0232,Sinch Engage,Email,Transactional Email,Colombia,2025-04-02,True
+CLT0233,MailerSend,SMS,SMS API,India,2025-10-22,True
+CLT0233,MailerSend,Verification,Flash Call Verification,Australia,2025-11-24,True
+CLT0234,Sinch Core,Voice,Contact Center Voice,United Kingdom,2023-11-26,True
+CLT0234,Sinch Core,SMS,SMS API,Ireland,2023-12-26,True
+CLT0235,Sinch Engage,Voice,Contact Center Voice,Denmark,2024-09-07,True
+CLT0235,Sinch Engage,SMS,SMS API,Finland,2024-07-18,True
+CLT0235,Sinch Engage,Verification,Flash Call Verification,Denmark,2024-07-30,True
+CLT0236,Sinch Engage,WhatsApp Business,WhatsApp API,Finland,2023-07-23,True
+CLT0236,Sinch Engage,SMS,P2P SMS,Norway,2023-08-25,True
+CLT0236,Sinch Engage,Voice,Contact Center Voice,Sweden,2023-08-13,True
+CLT0237,Sinch Core,Email,Marketing Email,Singapore,2023-02-24,True
+CLT0237,Sinch Core,WhatsApp Business,WhatsApp API,Japan,2023-03-08,True
+CLT0237,Sinch Core,Voice,SIP Trunking,Australia,2023-03-26,True
+CLT0237,Sinch Core,SMS,P2P SMS,Australia,2023-04-17,True
+CLT0238,MessageMedia,Verification,Flash Call Verification,Spain,2023-06-07,True
+CLT0238,MessageMedia,SMS,P2P SMS,Spain,2023-06-19,True
+CLT0238,MessageMedia,Email,Email API,Portugal,2023-05-07,True
+CLT0238,MessageMedia,Voice,SIP Trunking,Portugal,2023-05-30,True
+CLT0239,Sinch Engage,Verification,Flash Call Verification,Italy,2023-12-10,True
+CLT0239,Sinch Engage,Voice,SIP Trunking,Portugal,2023-11-05,True
+CLT0240,Sinch Core,Email,Email API,Japan,2022-11-10,True
+CLT0240,Sinch Core,Verification,Data Verification,India,2022-10-23,True
+CLT0240,Sinch Core,SMS,A2P SMS,Singapore,2022-11-22,True
+CLT0240,Sinch Core,Voice,Voice API,Australia,2022-12-12,True
+CLT0241,MessageMedia,SMS,P2P SMS,Argentina,2025-01-03,True
+CLT0241,MessageMedia,Voice,Voice API,Brazil,2025-01-06,True
+CLT0241,MessageMedia,Verification,Data Verification,Mexico,2024-12-24,True
+CLT0242,Sinch Engage,SMS,SMS API,Italy,2024-03-14,True
+CLT0242,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Spain,2024-02-01,True
+CLT0242,Sinch Engage,Verification,Data Verification,Spain,2024-01-25,True
+CLT0243,Sinch Engage,Voice,Contact Center Voice,Sweden,2023-06-20,True
+CLT0243,Sinch Engage,SMS,P2P SMS,Norway,2023-05-02,True
+CLT0243,Sinch Engage,Email,Transactional Email,Norway,2023-05-28,True
+CLT0244,MailerSend,Verification,Flash Call Verification,Germany,2025-03-10,True
+CLT0245,MessageMedia,Email,Email API,Germany,2026-01-23,True
+CLT0245,MessageMedia,SMS,A2P SMS,Germany,2026-01-09,True
+CLT0246,Sinch Engage,Verification,2FA SMS,Sweden,2024-09-16,True
+CLT0246,Sinch Engage,Voice,SIP Trunking,Norway,2024-09-22,True
+CLT0246,Sinch Engage,SMS,SMS API,Finland,2024-09-29,True
+CLT0247,MessageMedia,Email,Transactional Email,Australia,2025-09-24,True
+CLT0247,MessageMedia,SMS,P2P SMS,Japan,2025-09-17,True
+CLT0248,MailerSend,SMS,SMS API,United Kingdom,2026-01-15,False
+CLT0249,MessageMedia,Email,Marketing Email,United Kingdom,2025-05-26,True
+CLT0249,MessageMedia,SMS,SMS API,Ireland,2025-04-18,True
+CLT0250,Sinch Core,SMS,A2P SMS,United States,2024-09-08,True
+CLT0250,Sinch Core,Voice,SIP Trunking,Canada,2024-08-24,True
+CLT0250,Sinch Core,WhatsApp Business,WhatsApp API,United States,2024-07-29,True
+CLT0251,MailerSend,Verification,Data Verification,Ireland,2024-12-27,True
+CLT0251,MailerSend,Email,Email API,United Kingdom,2024-12-12,True
+CLT0252,MessageMedia,SMS,SMS API,Ireland,2026-02-16,False
+CLT0252,MessageMedia,Verification,Data Verification,United Kingdom,2026-03-06,False
+CLT0253,Sinch Engage,Email,Marketing Email,United States,2025-04-08,True
+CLT0253,Sinch Engage,Verification,Data Verification,United States,2025-04-03,True
+CLT0254,MailerSend,Email,Marketing Email,Canada,2023-06-05,True
+CLT0254,MailerSend,Voice,Voice API,United States,2023-05-12,True
+CLT0255,Sinch Engage,Verification,Flash Call Verification,United Kingdom,2023-07-08,True
+CLT0255,Sinch Engage,Voice,SIP Trunking,United Kingdom,2023-07-07,True
+CLT0256,MessageMedia,SMS,SMS API,Colombia,2025-12-10,True
+CLT0257,MessageMedia,Voice,Contact Center Voice,Austria,2022-08-04,True
+CLT0257,MessageMedia,SMS,SMS API,Austria,2022-08-02,True
+CLT0257,MessageMedia,Email,Transactional Email,Switzerland,2022-09-09,True
+CLT0258,MailerSend,SMS,SMS API,Japan,2023-06-17,True
+CLT0258,MailerSend,WhatsApp Business,WhatsApp API,India,2023-05-13,True
+CLT0258,MailerSend,Verification,Data Verification,Japan,2023-05-31,True
+CLT0259,MessageMedia,Email,Transactional Email,India,2024-06-19,True
+CLT0259,MessageMedia,SMS,A2P SMS,Australia,2024-08-01,True
+CLT0259,MessageMedia,Verification,Data Verification,Japan,2024-08-04,True
+CLT0260,MessageMedia,Email,Transactional Email,Germany,2024-01-14,True
+CLT0260,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Austria,2023-12-31,True
+CLT0261,MailerSend,Email,Transactional Email,Italy,2025-04-13,True
+CLT0261,MailerSend,Verification,Data Verification,France,2025-04-25,True
+CLT0262,MessageMedia,SMS,SMS API,Denmark,2025-02-27,True
+CLT0262,MessageMedia,Verification,Flash Call Verification,Denmark,2025-03-06,True
+CLT0262,MessageMedia,Voice,SIP Trunking,Norway,2025-02-15,True
+CLT0263,MailerSend,SMS,P2P SMS,Finland,2025-06-07,True
+CLT0263,MailerSend,Verification,2FA SMS,Finland,2025-05-18,True
+CLT0264,MessageMedia,Voice,SIP Trunking,Switzerland,2022-09-15,True
+CLT0264,MessageMedia,Verification,2FA SMS,Switzerland,2022-09-18,True
+CLT0265,Sinch Engage,Verification,Flash Call Verification,Denmark,2023-05-22,True
+CLT0265,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Finland,2023-05-16,True
+CLT0265,Sinch Engage,SMS,A2P SMS,Norway,2023-05-30,True
+CLT0266,MessageMedia,Email,Transactional Email,Spain,2023-08-19,True
+CLT0266,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Portugal,2023-07-19,True
+CLT0266,MessageMedia,SMS,P2P SMS,Portugal,2023-06-20,True
+CLT0266,MessageMedia,Voice,Contact Center Voice,Portugal,2023-07-27,True
+CLT0267,Sinch Core,Voice,SIP Trunking,United Kingdom,2025-03-15,True
+CLT0267,Sinch Core,Verification,2FA SMS,United Kingdom,2025-04-16,True
+CLT0267,Sinch Core,SMS,A2P SMS,Ireland,2025-03-23,True
+CLT0268,MailerSend,SMS,SMS API,Argentina,2024-11-26,True
+CLT0268,MailerSend,Verification,Data Verification,Colombia,2024-11-27,True
+CLT0269,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Germany,2023-05-04,True
+CLT0269,Sinch Engage,SMS,A2P SMS,Germany,2023-05-21,True
+CLT0269,Sinch Engage,Voice,SIP Trunking,Switzerland,2023-05-11,True
+CLT0269,Sinch Engage,Verification,Data Verification,Switzerland,2023-06-19,True
+CLT0270,Sinch Core,SMS,SMS API,Singapore,2023-07-11,True
+CLT0270,Sinch Core,Email,Transactional Email,Japan,2023-06-12,True
+CLT0270,Sinch Core,Voice,Voice API,Australia,2023-07-13,True
+CLT0270,Sinch Core,Verification,Data Verification,India,2023-06-05,True
+CLT0271,MailerSend,Verification,Data Verification,United States,2025-02-11,False
+CLT0271,MailerSend,SMS,P2P SMS,Canada,2025-03-31,False
+CLT0272,MailerSend,SMS,SMS API,Ireland,2025-03-07,True
+CLT0272,MailerSend,Verification,Data Verification,Ireland,2025-03-22,True
+CLT0273,Sinch Core,SMS,SMS API,Ireland,2024-06-08,False
+CLT0273,Sinch Core,Voice,Voice API,United Kingdom,2024-06-27,False
+CLT0273,Sinch Core,Verification,Data Verification,Ireland,2024-06-19,False
+CLT0274,Sinch Engage,Verification,Flash Call Verification,Australia,2026-02-04,True
+CLT0275,MessageMedia,Verification,Data Verification,Argentina,2022-10-05,True
+CLT0275,MessageMedia,SMS,A2P SMS,Colombia,2022-10-12,True
+CLT0276,Sinch Engage,SMS,A2P SMS,United States,2026-04-04,True
+CLT0277,Sinch Core,WhatsApp Business,WhatsApp API,United States,2025-04-29,True
+CLT0277,Sinch Core,Email,Transactional Email,United States,2025-03-24,True
+CLT0277,Sinch Core,SMS,A2P SMS,Canada,2025-04-24,True
+CLT0278,MessageMedia,Email,Email API,United Kingdom,2024-06-04,False
+CLT0278,MessageMedia,SMS,P2P SMS,Ireland,2024-06-09,False
+CLT0279,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Italy,2024-08-12,True
+CLT0279,Sinch Core,SMS,P2P SMS,Spain,2024-07-13,True
+CLT0280,MessageMedia,WhatsApp Business,WhatsApp API,United Kingdom,2025-02-27,True
+CLT0281,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Singapore,2022-12-14,True
+CLT0281,MessageMedia,SMS,P2P SMS,Singapore,2022-12-22,True
+CLT0282,Sinch Engage,SMS,P2P SMS,Singapore,2025-07-16,True
+CLT0282,Sinch Engage,Voice,SIP Trunking,Japan,2025-06-17,True
+CLT0283,MailerSend,SMS,P2P SMS,United Kingdom,2025-07-30,False
+CLT0283,MailerSend,Voice,SIP Trunking,Ireland,2025-07-14,False
+CLT0284,MessageMedia,Verification,Data Verification,Italy,2023-05-28,True
+CLT0284,MessageMedia,WhatsApp Business,WhatsApp API,Spain,2023-06-12,True
+CLT0285,Sinch Engage,Verification,Flash Call Verification,India,2023-10-20,True
+CLT0285,Sinch Engage,SMS,SMS API,Japan,2023-10-22,True
+CLT0285,Sinch Engage,WhatsApp Business,WhatsApp API,Singapore,2023-10-08,True
+CLT0285,Sinch Engage,Voice,Voice API,Singapore,2023-10-08,True
+CLT0286,MailerSend,SMS,SMS API,United Kingdom,2024-05-17,True
+CLT0286,MailerSend,Verification,Data Verification,Ireland,2024-05-14,True
+CLT0287,MessageMedia,SMS,SMS API,Sweden,2022-10-29,True
+CLT0287,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Norway,2022-12-04,True
+CLT0288,Sinch Engage,Email,Email API,Spain,2025-11-10,True
+CLT0288,Sinch Engage,SMS,A2P SMS,Spain,2025-12-05,True
+CLT0289,MailerSend,Voice,Voice API,Mexico,2024-01-16,True
+CLT0289,MailerSend,Verification,2FA SMS,Mexico,2024-02-02,True
+CLT0289,MailerSend,SMS,SMS API,Brazil,2024-01-02,True
+CLT0289,MailerSend,WhatsApp Business,WhatsApp API,Brazil,2024-01-19,True
+CLT0290,MessageMedia,SMS,A2P SMS,Austria,2022-12-06,True
+CLT0290,MessageMedia,Voice,Contact Center Voice,Switzerland,2022-12-22,True
+CLT0290,MessageMedia,Email,Transactional Email,Germany,2022-12-10,True
+CLT0291,Sinch Engage,Voice,Voice API,United States,2021-09-29,True
+CLT0291,Sinch Engage,Email,Email API,Canada,2021-11-06,True
+CLT0291,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Canada,2021-10-17,True
+CLT0291,Sinch Engage,SMS,A2P SMS,Canada,2021-11-13,True
+CLT0292,MessageMedia,SMS,A2P SMS,Germany,2025-07-02,True
+CLT0293,MessageMedia,Voice,Contact Center Voice,United States,2024-01-23,True
+CLT0293,MessageMedia,SMS,P2P SMS,United States,2024-01-22,True
+CLT0293,MessageMedia,WhatsApp Business,WhatsApp Business Platform,United States,2024-02-12,True
+CLT0293,MessageMedia,Email,Marketing Email,Canada,2024-01-19,True
+CLT0294,MailerSend,Voice,Contact Center Voice,Norway,2026-02-22,True
+CLT0294,MailerSend,SMS,A2P SMS,Sweden,2026-03-11,True
+CLT0295,Sinch Core,SMS,A2P SMS,Ireland,2024-09-20,True
+CLT0295,Sinch Core,WhatsApp Business,WhatsApp API,Ireland,2024-10-11,True
+CLT0295,Sinch Core,Voice,Voice API,Ireland,2024-10-04,True
+CLT0296,Sinch Engage,Email,Email API,France,2025-10-17,True
+CLT0297,Sinch Core,Email,Marketing Email,Portugal,2024-12-17,True
+CLT0297,Sinch Core,SMS,SMS API,Italy,2024-12-18,True
+CLT0297,Sinch Core,Verification,Flash Call Verification,Portugal,2025-01-22,True
+CLT0298,MessageMedia,Verification,Data Verification,Norway,2024-06-01,True
+CLT0299,MessageMedia,Verification,2FA SMS,Argentina,2025-06-15,True
+CLT0299,MessageMedia,SMS,SMS API,Colombia,2025-07-14,True
+CLT0300,MessageMedia,Email,Transactional Email,Canada,2025-08-03,True
+CLT0300,MessageMedia,SMS,P2P SMS,Canada,2025-08-11,True
+CLT0301,Sinch Engage,SMS,P2P SMS,Colombia,2025-12-02,True
+CLT0301,Sinch Engage,Verification,Flash Call Verification,Mexico,2025-10-23,True
+CLT0302,Sinch Engage,SMS,P2P SMS,United Kingdom,2024-03-28,True
+CLT0302,Sinch Engage,Voice,Contact Center Voice,Ireland,2024-04-26,True
+CLT0302,Sinch Engage,Verification,Data Verification,United Kingdom,2024-05-05,True
+CLT0302,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Ireland,2024-04-01,True
+CLT0303,MessageMedia,Verification,Data Verification,Brazil,2022-03-15,True
+CLT0303,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Brazil,2022-02-09,True
+CLT0303,MessageMedia,SMS,SMS API,Mexico,2022-02-05,True
+CLT0303,MessageMedia,Voice,SIP Trunking,Argentina,2022-01-26,True
+CLT0304,Sinch Engage,SMS,A2P SMS,Canada,2026-03-30,True
+CLT0304,Sinch Engage,Verification,Flash Call Verification,United States,2026-03-25,True
+CLT0305,MailerSend,SMS,A2P SMS,Switzerland,2021-12-17,True
+CLT0305,MailerSend,Email,Marketing Email,Germany,2022-01-11,True
+CLT0306,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Japan,2024-08-24,True
+CLT0307,MessageMedia,Email,Marketing Email,India,2024-01-21,True
+CLT0307,MessageMedia,SMS,P2P SMS,India,2024-02-05,True
+CLT0307,MessageMedia,Verification,Flash Call Verification,Australia,2024-03-16,True
+CLT0307,MessageMedia,Voice,Voice API,Australia,2024-03-11,True
+CLT0308,Sinch Engage,Voice,Voice API,Portugal,2025-08-01,True
+CLT0308,Sinch Engage,SMS,P2P SMS,Spain,2025-07-25,True
+CLT0309,MailerSend,SMS,P2P SMS,Germany,2022-04-20,True
+CLT0309,MailerSend,WhatsApp Business,WhatsApp API,Germany,2022-05-06,True
+CLT0309,MailerSend,Voice,Contact Center Voice,Switzerland,2022-03-29,True
+CLT0310,MailerSend,SMS,SMS API,Ireland,2025-09-06,True
+CLT0310,MailerSend,Verification,Data Verification,Ireland,2025-07-17,True
+CLT0311,MailerSend,Email,Transactional Email,Australia,2024-08-01,True
+CLT0311,MailerSend,SMS,A2P SMS,Japan,2024-07-19,True
+CLT0312,Sinch Engage,Voice,Voice API,United States,2023-07-12,True
+CLT0312,Sinch Engage,SMS,SMS API,United States,2023-07-10,True
+CLT0313,MessageMedia,SMS,A2P SMS,United States,2025-08-03,False
+CLT0313,MessageMedia,Voice,Contact Center Voice,Canada,2025-07-20,False
+CLT0314,MessageMedia,Verification,Data Verification,Germany,2024-08-13,True
+CLT0314,MessageMedia,Email,Marketing Email,Switzerland,2024-08-11,True
+CLT0314,MessageMedia,SMS,P2P SMS,Switzerland,2024-07-02,True
+CLT0315,Sinch Core,Voice,Contact Center Voice,Canada,2025-07-08,True
+CLT0315,Sinch Core,SMS,SMS API,Canada,2025-06-11,True
+CLT0316,Sinch Engage,Voice,Contact Center Voice,United Kingdom,2024-01-24,True
+CLT0316,Sinch Engage,SMS,A2P SMS,United Kingdom,2024-03-14,True
+CLT0316,Sinch Engage,Email,Transactional Email,United Kingdom,2024-02-26,True
+CLT0316,Sinch Engage,Verification,2FA SMS,United Kingdom,2024-02-07,True
+CLT0317,MailerSend,SMS,P2P SMS,Canada,2025-09-29,True
+CLT0317,MailerSend,Voice,Voice API,Canada,2025-09-02,True
+CLT0318,Sinch Core,Email,Marketing Email,Brazil,2024-02-16,True
+CLT0318,Sinch Core,SMS,P2P SMS,Argentina,2024-02-02,True
+CLT0318,Sinch Core,Verification,Data Verification,Mexico,2024-03-07,True
+CLT0319,MessageMedia,SMS,SMS API,United States,2025-09-23,True
+CLT0320,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,United States,2025-02-17,True
+CLT0320,Sinch Engage,SMS,P2P SMS,Canada,2025-02-19,True
+CLT0320,Sinch Engage,Email,Marketing Email,United States,2025-04-09,True
+CLT0321,MessageMedia,Verification,Data Verification,India,2024-04-10,True
+CLT0321,MessageMedia,WhatsApp Business,WhatsApp API,Australia,2024-04-24,True
+CLT0322,MailerSend,SMS,A2P SMS,Mexico,2024-06-19,True
+CLT0322,MailerSend,Verification,Flash Call Verification,Brazil,2024-08-13,True
+CLT0322,MailerSend,Email,Marketing Email,Argentina,2024-07-30,True
+CLT0323,MailerSend,WhatsApp Business,WhatsApp Business Platform,Colombia,2021-09-22,True
+CLT0323,MailerSend,Email,Email API,Colombia,2021-08-23,True
+CLT0324,MailerSend,Verification,2FA SMS,Ireland,2024-12-01,True
+CLT0324,MailerSend,SMS,P2P SMS,Ireland,2024-11-30,True
+CLT0324,MailerSend,Email,Email API,Ireland,2024-10-29,True
+CLT0325,Sinch Core,Voice,Contact Center Voice,Japan,2023-11-15,True
+CLT0325,Sinch Core,SMS,SMS API,Japan,2023-12-09,True
+CLT0325,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Singapore,2023-11-11,True
+CLT0325,Sinch Core,Verification,2FA SMS,Singapore,2023-10-20,True
+CLT0326,MailerSend,SMS,SMS API,Germany,2023-08-20,True
+CLT0326,MailerSend,Voice,SIP Trunking,Austria,2023-08-27,True
+CLT0326,MailerSend,WhatsApp Business,WhatsApp Business Platform,Austria,2023-09-01,True
+CLT0326,MailerSend,Email,Email API,Switzerland,2023-07-20,True
+CLT0327,Sinch Core,Voice,SIP Trunking,France,2023-02-24,True
+CLT0327,Sinch Core,SMS,A2P SMS,Spain,2023-02-10,True
+CLT0327,Sinch Core,Verification,2FA SMS,Italy,2023-02-04,True
+CLT0328,MailerSend,Voice,Voice API,France,2024-02-28,True
+CLT0328,MailerSend,SMS,SMS API,Portugal,2024-02-16,True
+CLT0329,Sinch Core,SMS,SMS API,Japan,2026-02-02,False
+CLT0330,Sinch Engage,Verification,Flash Call Verification,Switzerland,2022-02-25,True
+CLT0330,Sinch Engage,SMS,A2P SMS,Switzerland,2021-12-29,True
+CLT0330,Sinch Engage,Email,Transactional Email,Austria,2022-01-11,True
+CLT0330,Sinch Engage,Voice,Contact Center Voice,Switzerland,2022-01-22,True
+CLT0331,Sinch Core,Voice,Contact Center Voice,Mexico,2021-12-29,True
+CLT0331,Sinch Core,SMS,SMS API,Mexico,2021-11-28,True
+CLT0331,Sinch Core,Verification,2FA SMS,Colombia,2022-01-22,True
+CLT0331,Sinch Core,Email,Transactional Email,Colombia,2021-12-25,True
+CLT0332,MailerSend,SMS,P2P SMS,Japan,2025-05-16,False
+CLT0333,MailerSend,WhatsApp Business,WhatsApp API,Denmark,2023-08-31,True
+CLT0333,MailerSend,Verification,Flash Call Verification,Denmark,2023-08-31,True
+CLT0333,MailerSend,Voice,Voice API,Finland,2023-09-18,True
+CLT0334,Sinch Core,Email,Marketing Email,India,2024-02-18,True
+CLT0334,Sinch Core,SMS,A2P SMS,Australia,2024-03-24,True
+CLT0335,MessageMedia,SMS,P2P SMS,Canada,2025-07-20,True
+CLT0335,MessageMedia,Voice,Voice API,Canada,2025-08-08,True
+CLT0336,MailerSend,SMS,A2P SMS,India,2024-01-10,True
+CLT0336,MailerSend,WhatsApp Business,WhatsApp Business Platform,Australia,2024-01-04,True
+CLT0336,MailerSend,Voice,Contact Center Voice,Japan,2023-12-15,True
+CLT0336,MailerSend,Email,Marketing Email,India,2024-01-09,True
+CLT0337,MessageMedia,SMS,A2P SMS,Ireland,2024-03-16,True
+CLT0337,MessageMedia,Verification,Flash Call Verification,Ireland,2024-03-27,True
+CLT0338,MailerSend,Email,Transactional Email,Finland,2024-06-16,True
+CLT0338,MailerSend,Verification,2FA SMS,Denmark,2024-07-06,True
+CLT0338,MailerSend,SMS,SMS API,Sweden,2024-06-17,True
+CLT0339,Sinch Core,Verification,2FA SMS,France,2024-12-29,True
+CLT0339,Sinch Core,SMS,A2P SMS,Portugal,2025-01-02,True
+CLT0339,Sinch Core,Voice,SIP Trunking,France,2024-11-24,True
+CLT0340,MailerSend,Voice,Contact Center Voice,Ireland,2025-10-25,True
+CLT0340,MailerSend,SMS,SMS API,United Kingdom,2025-10-20,True
+CLT0341,Sinch Core,SMS,SMS API,Norway,2026-03-05,False
+CLT0341,Sinch Core,Email,Marketing Email,Finland,2026-02-16,False
+CLT0342,MessageMedia,SMS,A2P SMS,Brazil,2026-02-27,True
+CLT0342,MessageMedia,Email,Transactional Email,Mexico,2026-02-26,True
+CLT0343,MessageMedia,Verification,2FA SMS,Austria,2023-09-05,True
+CLT0343,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Switzerland,2023-09-10,True
+CLT0343,MessageMedia,Voice,Voice API,Austria,2023-09-21,True
+CLT0343,MessageMedia,SMS,P2P SMS,Austria,2023-09-30,True
+CLT0344,MailerSend,WhatsApp Business,WhatsApp API,Norway,2024-07-28,True
+CLT0344,MailerSend,SMS,A2P SMS,Sweden,2024-08-26,True
+CLT0345,Sinch Core,Verification,2FA SMS,Switzerland,2024-03-16,True
+CLT0345,Sinch Core,WhatsApp Business,WhatsApp API,Switzerland,2024-03-02,True
+CLT0345,Sinch Core,Voice,Contact Center Voice,Germany,2024-03-07,True
+CLT0346,Sinch Engage,Email,Transactional Email,Mexico,2025-03-04,True
+CLT0346,Sinch Engage,SMS,P2P SMS,Colombia,2025-03-09,True
+CLT0347,MessageMedia,Voice,SIP Trunking,Mexico,2025-12-05,True
+CLT0348,MailerSend,Voice,Contact Center Voice,Norway,2023-11-28,True
+CLT0348,MailerSend,WhatsApp Business,WhatsApp API,Finland,2023-11-26,True
+CLT0349,MailerSend,Voice,Contact Center Voice,Canada,2024-07-11,False
+CLT0349,MailerSend,SMS,A2P SMS,Canada,2024-06-27,False
+CLT0349,MailerSend,Verification,Flash Call Verification,Canada,2024-05-15,False
+CLT0350,Sinch Core,Email,Transactional Email,United States,2023-11-06,False
+CLT0350,Sinch Core,Verification,2FA SMS,Canada,2023-11-14,False
+CLT0350,Sinch Core,SMS,A2P SMS,Canada,2023-10-30,False
+CLT0350,Sinch Core,Voice,SIP Trunking,United States,2023-09-20,False
+CLT0351,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Singapore,2024-11-18,True
+CLT0351,Sinch Core,Email,Marketing Email,Australia,2024-12-04,True
+CLT0351,Sinch Core,SMS,SMS API,Japan,2024-12-11,True
+CLT0352,MailerSend,Verification,Data Verification,Ireland,2025-02-20,True
+CLT0352,MailerSend,Voice,Voice API,Ireland,2025-02-28,True
+CLT0352,MailerSend,SMS,A2P SMS,Ireland,2025-03-04,True
+CLT0353,MessageMedia,SMS,SMS API,Spain,2025-02-22,True
+CLT0353,MessageMedia,Voice,Voice API,Italy,2025-03-04,True
+CLT0354,MailerSend,SMS,A2P SMS,Denmark,2025-11-02,True
+CLT0355,MessageMedia,SMS,A2P SMS,Norway,2025-03-07,True
+CLT0355,MessageMedia,Email,Transactional Email,Norway,2025-04-02,True
+CLT0355,MessageMedia,Verification,Flash Call Verification,Denmark,2025-03-06,True
+CLT0356,MailerSend,SMS,SMS API,Brazil,2023-09-03,True
+CLT0356,MailerSend,Verification,Flash Call Verification,Argentina,2023-10-14,True
+CLT0356,MailerSend,Voice,SIP Trunking,Brazil,2023-09-15,True
+CLT0356,MailerSend,WhatsApp Business,WhatsApp API,Colombia,2023-09-10,True
+CLT0357,Sinch Core,Verification,Flash Call Verification,Australia,2025-10-05,True
+CLT0357,Sinch Core,SMS,SMS API,India,2025-09-25,True
+CLT0358,Sinch Core,Voice,Voice API,Switzerland,2024-07-16,True
+CLT0358,Sinch Core,SMS,P2P SMS,Austria,2024-07-09,True
+CLT0358,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Austria,2024-07-06,True
+CLT0359,Sinch Core,Email,Transactional Email,Italy,2025-04-04,True
+CLT0360,MailerSend,SMS,P2P SMS,United States,2023-06-26,True
+CLT0360,MailerSend,Email,Marketing Email,Canada,2023-07-05,True
+CLT0361,Sinch Core,Email,Transactional Email,Spain,2026-01-21,False
+CLT0361,Sinch Core,SMS,SMS API,France,2026-01-20,False
+CLT0362,MessageMedia,Voice,SIP Trunking,United Kingdom,2025-08-09,True
+CLT0362,MessageMedia,SMS,P2P SMS,United Kingdom,2025-08-13,True
+CLT0363,Sinch Engage,Email,Email API,Germany,2024-09-05,True
+CLT0363,Sinch Engage,Verification,Data Verification,Switzerland,2024-08-21,True
+CLT0363,Sinch Engage,SMS,SMS API,Austria,2024-08-20,True
+CLT0364,Sinch Core,SMS,P2P SMS,Denmark,2021-05-04,True
+CLT0364,Sinch Core,Verification,Flash Call Verification,Sweden,2021-06-27,True
+CLT0365,Sinch Engage,Voice,Voice API,United States,2025-03-25,True
+CLT0365,Sinch Engage,SMS,SMS API,United States,2025-02-27,True
+CLT0365,Sinch Engage,Verification,Data Verification,Canada,2025-02-22,True
+CLT0366,MailerSend,WhatsApp Business,WhatsApp Business Platform,Austria,2025-02-25,True
+CLT0366,MailerSend,SMS,P2P SMS,Switzerland,2025-02-26,True
+CLT0366,MailerSend,Email,Email API,Austria,2025-01-19,True
+CLT0367,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Germany,2024-11-18,False
+CLT0368,MessageMedia,Email,Marketing Email,Ireland,2025-05-29,False
+CLT0368,MessageMedia,SMS,A2P SMS,United Kingdom,2025-04-18,False
+CLT0369,Sinch Engage,SMS,SMS API,Colombia,2025-04-29,True
+CLT0370,Sinch Core,Verification,Flash Call Verification,United States,2023-08-06,True
+CLT0370,Sinch Core,Voice,Voice API,United States,2023-09-09,True
+CLT0371,MessageMedia,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2025-01-04,True
+CLT0371,MessageMedia,Email,Email API,United Kingdom,2024-11-23,True
+CLT0371,MessageMedia,SMS,SMS API,Ireland,2025-01-04,True
+CLT0372,MailerSend,Email,Email API,United Kingdom,2022-02-26,True
+CLT0372,MailerSend,Verification,2FA SMS,United Kingdom,2022-04-11,True
+CLT0372,MailerSend,Voice,SIP Trunking,United Kingdom,2022-04-17,True
+CLT0372,MailerSend,SMS,A2P SMS,United Kingdom,2022-03-07,True
+CLT0373,Sinch Core,Email,Transactional Email,Portugal,2023-09-10,True
+CLT0373,Sinch Core,SMS,SMS API,Portugal,2023-07-23,True
+CLT0373,Sinch Core,Voice,Voice API,France,2023-08-30,True
+CLT0373,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Italy,2023-09-09,True
+CLT0374,MailerSend,Voice,Voice API,Spain,2023-10-26,True
+CLT0374,MailerSend,SMS,A2P SMS,France,2023-11-13,True
+CLT0375,MailerSend,SMS,A2P SMS,Norway,2025-06-09,True
+CLT0375,MailerSend,Email,Transactional Email,Finland,2025-05-26,True
+CLT0376,Sinch Engage,Verification,Flash Call Verification,Denmark,2025-12-25,False
+CLT0376,Sinch Engage,SMS,A2P SMS,Finland,2025-12-08,False
+CLT0377,MessageMedia,SMS,P2P SMS,Sweden,2026-03-26,True
+CLT0377,MessageMedia,Verification,2FA SMS,Denmark,2026-03-30,True
+CLT0378,MailerSend,Verification,2FA SMS,Germany,2024-05-22,True
+CLT0378,MailerSend,Email,Transactional Email,Germany,2024-05-07,True
+CLT0378,MailerSend,SMS,A2P SMS,Switzerland,2024-05-18,True
+CLT0379,Sinch Core,Email,Email API,Germany,2025-02-12,True
+CLT0379,Sinch Core,SMS,SMS API,Austria,2025-01-27,True
+CLT0379,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Germany,2025-02-17,True
+CLT0380,Sinch Engage,SMS,SMS API,Colombia,2025-07-16,False
+CLT0380,Sinch Engage,Email,Email API,Brazil,2025-06-18,False
+CLT0381,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Portugal,2023-10-09,True
+CLT0381,Sinch Engage,Verification,Flash Call Verification,Portugal,2023-09-02,True
+CLT0382,Sinch Engage,Email,Email API,Colombia,2025-08-11,True
+CLT0383,Sinch Engage,WhatsApp Business,WhatsApp API,Austria,2025-01-29,True
+CLT0383,Sinch Engage,Email,Marketing Email,Austria,2025-01-20,True
+CLT0384,Sinch Engage,SMS,SMS API,Switzerland,2025-11-10,True
+CLT0384,Sinch Engage,Voice,Contact Center Voice,Germany,2025-11-15,True
+CLT0385,MailerSend,Email,Marketing Email,Switzerland,2026-03-10,True
+CLT0385,MailerSend,SMS,P2P SMS,Switzerland,2026-03-02,True
+CLT0386,Sinch Engage,Email,Marketing Email,Switzerland,2024-06-09,True
+CLT0386,Sinch Engage,SMS,SMS API,Switzerland,2024-05-19,True
+CLT0387,Sinch Core,Email,Transactional Email,Australia,2024-09-19,False
+CLT0387,Sinch Core,SMS,A2P SMS,Australia,2024-08-19,False
+CLT0387,Sinch Core,Verification,Flash Call Verification,India,2024-09-07,False
+CLT0388,Sinch Engage,Verification,Flash Call Verification,Italy,2023-02-26,True
+CLT0388,Sinch Engage,Email,Marketing Email,Italy,2023-03-23,True
+CLT0388,Sinch Engage,Voice,Contact Center Voice,Portugal,2023-02-21,True
+CLT0389,Sinch Engage,Voice,Voice API,Mexico,2024-05-28,True
+CLT0389,Sinch Engage,WhatsApp Business,WhatsApp API,Mexico,2024-05-31,True
+CLT0389,Sinch Engage,SMS,P2P SMS,Brazil,2024-05-29,True
+CLT0390,MailerSend,SMS,P2P SMS,Brazil,2026-02-01,True
+CLT0390,MailerSend,Voice,Contact Center Voice,Brazil,2025-12-29,True
+CLT0391,Sinch Core,SMS,A2P SMS,Singapore,2025-07-30,True
+CLT0391,Sinch Core,Verification,2FA SMS,Japan,2025-08-03,True
+CLT0392,MessageMedia,WhatsApp Business,WhatsApp API,United Kingdom,2023-11-29,True
+CLT0392,MessageMedia,Verification,Flash Call Verification,United Kingdom,2023-11-30,True
+CLT0393,Sinch Engage,SMS,P2P SMS,Canada,2024-11-15,True
+CLT0393,Sinch Engage,Verification,Flash Call Verification,United States,2024-10-22,True
+CLT0393,Sinch Engage,Voice,SIP Trunking,United States,2024-12-04,True
+CLT0394,MailerSend,Voice,Contact Center Voice,Italy,2025-04-22,True
+CLT0394,MailerSend,SMS,SMS API,Spain,2025-05-30,True
+CLT0395,Sinch Core,Verification,Data Verification,Austria,2026-02-04,True
+CLT0395,Sinch Core,SMS,SMS API,Austria,2026-02-19,True
+CLT0396,Sinch Engage,SMS,SMS API,Ireland,2025-10-23,True
+CLT0396,Sinch Engage,Verification,2FA SMS,United Kingdom,2025-10-20,True
+CLT0397,Sinch Core,Voice,SIP Trunking,United States,2022-09-14,True
+CLT0397,Sinch Core,SMS,A2P SMS,United States,2022-09-28,True
+CLT0397,Sinch Core,Email,Email API,United States,2022-09-18,True
+CLT0397,Sinch Core,Verification,Data Verification,Canada,2022-09-24,True
+CLT0398,Sinch Engage,Voice,Voice API,France,2023-10-27,True
+CLT0398,Sinch Engage,Verification,Data Verification,Italy,2023-11-20,True
+CLT0398,Sinch Engage,SMS,P2P SMS,Spain,2023-12-11,True
+CLT0398,Sinch Engage,WhatsApp Business,WhatsApp API,France,2023-11-24,True
+CLT0399,MailerSend,Voice,SIP Trunking,Sweden,2025-06-29,True
+CLT0399,MailerSend,SMS,A2P SMS,Sweden,2025-06-26,True
+CLT0400,MessageMedia,Verification,Data Verification,Australia,2024-09-13,True
+CLT0400,MessageMedia,Email,Transactional Email,Australia,2024-10-25,True
+CLT0400,MessageMedia,SMS,SMS API,Australia,2024-10-06,True
+CLT0401,Sinch Core,SMS,A2P SMS,France,2025-12-03,False
+CLT0401,Sinch Core,Email,Transactional Email,France,2025-10-07,False
+CLT0402,MessageMedia,SMS,SMS API,Colombia,2023-10-06,True
+CLT0402,MessageMedia,Voice,SIP Trunking,Colombia,2023-09-02,True
+CLT0403,MailerSend,Voice,Contact Center Voice,United Kingdom,2023-04-19,True
+CLT0403,MailerSend,Verification,Data Verification,United Kingdom,2023-03-31,True
+CLT0403,MailerSend,Email,Transactional Email,Ireland,2023-04-14,True
+CLT0404,MailerSend,Voice,Voice API,India,2023-10-05,False
+CLT0404,MailerSend,WhatsApp Business,WhatsApp API,Australia,2023-09-22,False
+CLT0404,MailerSend,Verification,Data Verification,Japan,2023-11-03,False
+CLT0405,MailerSend,SMS,P2P SMS,Japan,2021-09-08,True
+CLT0405,MailerSend,Voice,SIP Trunking,Singapore,2021-10-10,True
+CLT0405,MailerSend,Verification,Data Verification,India,2021-09-04,True
+CLT0406,Sinch Core,Verification,Data Verification,Sweden,2022-10-15,True
+CLT0406,Sinch Core,Voice,Voice API,Finland,2022-10-17,True
+CLT0407,Sinch Core,Verification,Flash Call Verification,United States,2024-11-06,True
+CLT0407,Sinch Core,Voice,SIP Trunking,Canada,2024-12-05,True
+CLT0408,Sinch Engage,Voice,Voice API,Austria,2024-07-10,True
+CLT0408,Sinch Engage,Verification,Data Verification,Austria,2024-06-21,True
+CLT0408,Sinch Engage,SMS,A2P SMS,Germany,2024-07-10,True
+CLT0409,MessageMedia,Verification,Flash Call Verification,Ireland,2024-12-25,True
+CLT0409,MessageMedia,Voice,Contact Center Voice,United Kingdom,2024-11-12,True
+CLT0409,MessageMedia,SMS,A2P SMS,Ireland,2024-12-05,True
+CLT0410,Sinch Engage,SMS,P2P SMS,Austria,2025-10-12,True
+CLT0411,Sinch Core,Email,Marketing Email,Ireland,2025-02-16,True
+CLT0411,Sinch Core,SMS,P2P SMS,Ireland,2025-03-06,True
+CLT0411,Sinch Core,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2025-02-23,True
+CLT0412,Sinch Core,Verification,Data Verification,Switzerland,2023-12-25,True
+CLT0412,Sinch Core,WhatsApp Business,WhatsApp API,Germany,2024-02-06,True
+CLT0412,Sinch Core,Voice,SIP Trunking,Germany,2024-01-22,True
+CLT0412,Sinch Core,SMS,SMS API,Germany,2024-01-21,True
+CLT0413,MessageMedia,Verification,Flash Call Verification,Sweden,2025-08-26,True
+CLT0413,MessageMedia,SMS,P2P SMS,Finland,2025-09-08,True
+CLT0414,Sinch Core,SMS,A2P SMS,United Kingdom,2024-09-07,True
+CLT0414,Sinch Core,Verification,Data Verification,Ireland,2024-09-06,True
+CLT0414,Sinch Core,Voice,SIP Trunking,Ireland,2024-08-31,True
+CLT0415,Sinch Engage,WhatsApp Business,WhatsApp Business Platform,Ireland,2024-08-05,True
+CLT0415,Sinch Engage,Email,Transactional Email,Ireland,2024-07-30,True
+CLT0415,Sinch Engage,SMS,A2P SMS,Ireland,2024-08-26,True
+CLT0416,MessageMedia,Verification,Flash Call Verification,Italy,2026-04-26,False
+CLT0417,Sinch Engage,WhatsApp Business,WhatsApp API,Colombia,2024-02-16,False
+CLT0417,Sinch Engage,Verification,Flash Call Verification,Mexico,2024-03-16,False
+CLT0417,Sinch Engage,Voice,Voice API,Brazil,2024-04-02,False
+CLT0418,Sinch Engage,WhatsApp Business,WhatsApp API,Germany,2021-11-18,True
+CLT0418,Sinch Engage,SMS,P2P SMS,Germany,2021-11-02,True
+CLT0418,Sinch Engage,Verification,Flash Call Verification,Switzerland,2021-10-03,True
+CLT0418,Sinch Engage,Voice,SIP Trunking,Austria,2021-10-03,True
+CLT0419,MessageMedia,SMS,SMS API,Singapore,2025-07-12,True
+CLT0419,MessageMedia,Verification,2FA SMS,Australia,2025-07-16,True
+CLT0420,Sinch Engage,SMS,P2P SMS,Japan,2024-06-04,True
+CLT0421,MailerSend,SMS,SMS API,Norway,2023-01-07,True
+CLT0421,MailerSend,Voice,Contact Center Voice,Denmark,2023-01-24,True
+CLT0421,MailerSend,Verification,Data Verification,Finland,2023-01-15,True
+CLT0421,MailerSend,WhatsApp Business,WhatsApp API,Norway,2023-01-16,True
+CLT0422,MessageMedia,Verification,2FA SMS,Finland,2022-10-14,True
+CLT0422,MessageMedia,Voice,Voice API,Denmark,2022-09-22,True
+CLT0423,Sinch Engage,Verification,Flash Call Verification,United Kingdom,2023-07-20,True
+CLT0423,Sinch Engage,SMS,SMS API,United Kingdom,2023-08-21,True
+CLT0424,Sinch Core,Email,Marketing Email,United States,2024-08-29,True
+CLT0425,Sinch Engage,Verification,2FA SMS,Spain,2022-02-12,True
+CLT0425,Sinch Engage,SMS,P2P SMS,France,2022-02-03,True
+CLT0425,Sinch Engage,Voice,Voice API,France,2022-03-08,True
+CLT0425,Sinch Engage,Email,Email API,Spain,2022-02-03,True
+CLT0426,MailerSend,SMS,P2P SMS,Singapore,2024-12-15,True
+CLT0426,MailerSend,WhatsApp Business,WhatsApp Business Platform,India,2024-11-18,True
+CLT0426,MailerSend,Email,Email API,Singapore,2024-11-23,True
+CLT0427,Sinch Engage,Email,Marketing Email,Denmark,2025-06-12,True
+CLT0427,Sinch Engage,SMS,A2P SMS,Norway,2025-06-04,True
+CLT0428,MailerSend,Verification,Flash Call Verification,India,2024-11-17,True
+CLT0428,MailerSend,Voice,Contact Center Voice,Australia,2024-12-23,True
+CLT0428,MailerSend,SMS,A2P SMS,Australia,2024-11-20,True
+CLT0429,MessageMedia,SMS,SMS API,Argentina,2024-07-15,True
+CLT0429,MessageMedia,Verification,2FA SMS,Brazil,2024-08-12,True
+CLT0430,Sinch Core,Verification,Data Verification,Finland,2024-09-24,True
+CLT0430,Sinch Core,SMS,A2P SMS,Finland,2024-09-28,True
+CLT0430,Sinch Core,Email,Email API,Sweden,2024-09-18,True
+CLT0431,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Portugal,2025-02-19,True
+CLT0432,Sinch Engage,Voice,Voice API,Singapore,2023-01-19,True
+CLT0432,Sinch Engage,SMS,P2P SMS,Singapore,2022-12-26,True
+CLT0432,Sinch Engage,Verification,Flash Call Verification,India,2022-12-29,True
+CLT0432,Sinch Engage,WhatsApp Business,WhatsApp API,India,2023-02-20,True
+CLT0433,Sinch Engage,SMS,A2P SMS,Austria,2024-06-24,True
+CLT0434,MessageMedia,SMS,P2P SMS,Argentina,2024-12-01,False
+CLT0434,MessageMedia,Verification,2FA SMS,Argentina,2024-11-06,False
+CLT0434,MessageMedia,Email,Transactional Email,Argentina,2024-11-02,False
+CLT0435,Sinch Core,SMS,A2P SMS,Finland,2024-04-15,True
+CLT0435,Sinch Core,Voice,Contact Center Voice,Finland,2024-06-03,True
+CLT0436,MailerSend,Email,Marketing Email,Spain,2024-07-30,True
+CLT0436,MailerSend,SMS,SMS API,Italy,2024-06-23,True
+CLT0436,MailerSend,Verification,Data Verification,Portugal,2024-08-06,True
+CLT0437,Sinch Engage,Verification,Data Verification,Colombia,2025-08-28,True
+CLT0437,Sinch Engage,SMS,A2P SMS,Brazil,2025-09-02,True
+CLT0438,MessageMedia,SMS,A2P SMS,United Kingdom,2026-01-25,True
+CLT0439,MailerSend,Verification,Data Verification,Brazil,2025-01-16,True
+CLT0439,MailerSend,SMS,SMS API,Mexico,2024-12-25,True
+CLT0440,MessageMedia,SMS,A2P SMS,Japan,2026-03-21,False
+CLT0440,MessageMedia,Verification,Flash Call Verification,Japan,2026-03-24,False
+CLT0441,MailerSend,Voice,SIP Trunking,Mexico,2024-11-06,True
+CLT0441,MailerSend,Verification,Data Verification,Brazil,2024-11-10,True
+CLT0441,MailerSend,SMS,A2P SMS,Brazil,2024-10-13,True
+CLT0442,MessageMedia,WhatsApp Business,WhatsApp Business Platform,Norway,2024-07-17,True
+CLT0442,MessageMedia,Voice,Voice API,Finland,2024-09-08,True
+CLT0443,MailerSend,Email,Transactional Email,Spain,2024-12-10,False
+CLT0443,MailerSend,Verification,Flash Call Verification,Portugal,2025-01-06,False
+CLT0444,Sinch Engage,SMS,SMS API,Argentina,2024-12-15,True
+CLT0444,Sinch Engage,Voice,SIP Trunking,Argentina,2024-12-01,True
+CLT0444,Sinch Engage,Verification,2FA SMS,Colombia,2024-12-30,True
+CLT0445,Sinch Core,Voice,Voice API,Denmark,2025-01-19,True
+CLT0445,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Sweden,2025-01-01,True
+CLT0446,Sinch Core,SMS,A2P SMS,United States,2025-01-28,True
+CLT0446,Sinch Core,Email,Email API,United States,2025-02-08,True
+CLT0447,MessageMedia,WhatsApp Business,WhatsApp API,Ireland,2025-04-09,True
+CLT0447,MessageMedia,SMS,A2P SMS,United Kingdom,2025-03-27,True
+CLT0448,MailerSend,SMS,P2P SMS,India,2025-10-20,True
+CLT0448,MailerSend,Verification,2FA SMS,Singapore,2025-11-01,True
+CLT0449,Sinch Core,SMS,P2P SMS,Argentina,2025-04-23,True
+CLT0449,Sinch Core,Voice,SIP Trunking,Argentina,2025-05-08,True
+CLT0450,Sinch Engage,WhatsApp Business,WhatsApp API,Colombia,2024-08-30,True
+CLT0450,Sinch Engage,SMS,P2P SMS,Colombia,2024-10-06,True
+CLT0451,MailerSend,Voice,Contact Center Voice,Argentina,2025-06-08,True
+CLT0452,MailerSend,SMS,P2P SMS,Germany,2024-12-02,True
+CLT0452,MailerSend,Email,Email API,Austria,2024-12-17,True
+CLT0453,MailerSend,WhatsApp Business,WhatsApp Business Platform,Germany,2022-01-16,True
+CLT0453,MailerSend,SMS,SMS API,Switzerland,2022-01-10,True
+CLT0453,MailerSend,Verification,Flash Call Verification,Switzerland,2022-01-08,True
+CLT0454,MailerSend,Verification,2FA SMS,Singapore,2021-05-10,True
+CLT0454,MailerSend,Voice,SIP Trunking,Japan,2021-05-11,True
+CLT0454,MailerSend,SMS,P2P SMS,Australia,2021-06-15,True
+CLT0454,MailerSend,WhatsApp Business,WhatsApp API,Singapore,2021-05-19,True
+CLT0455,MailerSend,Email,Marketing Email,United States,2025-08-31,True
+CLT0455,MailerSend,SMS,P2P SMS,United States,2025-07-25,True
+CLT0456,MailerSend,Email,Marketing Email,France,2024-11-05,True
+CLT0456,MailerSend,SMS,A2P SMS,Spain,2024-11-06,True
+CLT0456,MailerSend,Verification,Flash Call Verification,Italy,2024-11-23,True
+CLT0457,Sinch Core,Email,Transactional Email,Singapore,2025-05-05,True
+CLT0457,Sinch Core,SMS,SMS API,Australia,2025-05-02,True
+CLT0458,Sinch Core,SMS,SMS API,Ireland,2025-12-18,True
+CLT0458,Sinch Core,Voice,SIP Trunking,Ireland,2025-12-14,True
+CLT0459,MailerSend,WhatsApp Business,WhatsApp Business Platform,Austria,2024-03-14,True
+CLT0459,MailerSend,Voice,SIP Trunking,Germany,2024-03-09,True
+CLT0460,Sinch Core,Email,Email API,Switzerland,2025-11-16,True
+CLT0460,Sinch Core,SMS,P2P SMS,Switzerland,2025-11-21,True
+CLT0461,Sinch Engage,Verification,Data Verification,Australia,2024-08-23,True
+CLT0462,MessageMedia,Voice,Voice API,Spain,2023-07-23,True
+CLT0462,MessageMedia,Email,Marketing Email,Spain,2023-08-08,True
+CLT0462,MessageMedia,SMS,A2P SMS,Spain,2023-08-19,True
+CLT0462,MessageMedia,WhatsApp Business,WhatsApp Business Platform,France,2023-08-03,True
+CLT0463,MessageMedia,Verification,Flash Call Verification,Australia,2025-09-12,True
+CLT0463,MessageMedia,SMS,SMS API,Singapore,2025-08-19,True
+CLT0464,MessageMedia,Voice,SIP Trunking,India,2026-02-15,True
+CLT0464,MessageMedia,SMS,P2P SMS,Australia,2026-01-11,True
+CLT0465,MessageMedia,Verification,2FA SMS,United Kingdom,2023-04-29,True
+CLT0465,MessageMedia,Voice,Voice API,Ireland,2023-06-14,True
+CLT0465,MessageMedia,WhatsApp Business,WhatsApp Business Platform,United Kingdom,2023-06-06,True
+CLT0466,MessageMedia,Voice,Contact Center Voice,Switzerland,2024-06-14,True
+CLT0466,MessageMedia,SMS,A2P SMS,Germany,2024-05-29,True
+CLT0467,Sinch Core,Voice,SIP Trunking,Argentina,2023-07-29,True
+CLT0467,Sinch Core,WhatsApp Business,WhatsApp Business Platform,Mexico,2023-07-06,True
+CLT0468,Sinch Core,Verification,Flash Call Verification,Germany,2023-09-23,True
+CLT0468,Sinch Core,Email,Email API,Austria,2023-09-22,True
+CLT0469,MessageMedia,SMS,SMS API,Japan,2025-07-02,True
+CLT0469,MessageMedia,Email,Email API,India,2025-06-09,True
+CLT0470,Sinch Engage,SMS,A2P SMS,Singapore,2023-06-15,True
+CLT0470,Sinch Engage,Email,Marketing Email,Australia,2023-05-06,True
+CLT0470,Sinch Engage,Voice,SIP Trunking,Japan,2023-05-16,True
+CLT0471,Sinch Core,SMS,SMS API,Spain,2025-05-06,True
+CLT0471,Sinch Core,Verification,Flash Call Verification,Italy,2025-05-07,True
+CLT0471,Sinch Core,Voice,Voice API,Italy,2025-03-29,True
+CLT0472,MailerSend,WhatsApp Business,WhatsApp Business Platform,Ireland,2024-09-06,True
+CLT0472,MailerSend,SMS,A2P SMS,Ireland,2024-07-22,True
+CLT0473,MailerSend,SMS,SMS API,Sweden,2024-08-04,True
+CLT0473,MailerSend,Email,Transactional Email,Denmark,2024-07-30,True
+CLT0473,MailerSend,WhatsApp Business,WhatsApp Business Platform,Norway,2024-07-16,True
+CLT0474,Sinch Core,SMS,P2P SMS,Norway,2024-08-16,True
+CLT0474,Sinch Core,Voice,Contact Center Voice,Sweden,2024-08-24,True
+CLT0474,Sinch Core,Verification,2FA SMS,Sweden,2024-08-14,True
+CLT0475,Sinch Core,Email,Transactional Email,Ireland,2025-01-13,False
+CLT0475,Sinch Core,Verification,2FA SMS,United Kingdom,2025-02-22,False
+CLT0475,Sinch Core,SMS,P2P SMS,Ireland,2025-01-28,False
+CLT0476,MessageMedia,Email,Email API,Denmark,2024-12-06,True
+CLT0476,MessageMedia,SMS,P2P SMS,Norway,2024-11-28,True
+CLT0476,MessageMedia,Verification,Flash Call Verification,Finland,2024-11-09,True
+CLT0477,Sinch Core,Voice,SIP Trunking,Spain,2024-01-10,True
+CLT0477,Sinch Core,Verification,Data Verification,Portugal,2023-12-23,True
+CLT0477,Sinch Core,Email,Transactional Email,Italy,2023-12-29,True
+CLT0477,Sinch Core,SMS,P2P SMS,France,2024-01-05,True
+CLT0478,Sinch Core,SMS,SMS API,United States,2023-08-04,True
+CLT0478,Sinch Core,Voice,Voice API,United States,2023-08-12,True
+CLT0478,Sinch Core,Verification,2FA SMS,Canada,2023-07-14,True
+CLT0478,Sinch Core,WhatsApp Business,WhatsApp API,United States,2023-08-15,True
+CLT0479,MailerSend,Verification,Flash Call Verification,Spain,2021-12-02,True
+CLT0479,MailerSend,WhatsApp Business,WhatsApp API,France,2021-11-11,True
+CLT0479,MailerSend,Voice,SIP Trunking,Italy,2021-12-14,True
+CLT0479,MailerSend,SMS,A2P SMS,France,2021-12-05,True
+CLT0480,MessageMedia,SMS,SMS API,Spain,2026-02-04,False
+CLT0480,MessageMedia,Email,Transactional Email,Portugal,2026-01-03,False
+CLT0481,Sinch Engage,Voice,Voice API,Brazil,2025-02-19,True
+CLT0481,Sinch Engage,Verification,2FA SMS,Colombia,2025-02-28,True
+CLT0481,Sinch Engage,SMS,P2P SMS,Brazil,2025-03-02,True
+CLT0482,MailerSend,SMS,P2P SMS,United Kingdom,2024-09-11,True
+CLT0482,MailerSend,Verification,Flash Call Verification,United Kingdom,2024-07-18,True
+CLT0482,MailerSend,Email,Transactional Email,United Kingdom,2024-07-31,True
+CLT0483,MailerSend,SMS,P2P SMS,Australia,2025-07-02,True
+CLT0483,MailerSend,Email,Marketing Email,Japan,2025-06-14,True
+CLT0484,Sinch Engage,Email,Transactional Email,Canada,2025-02-03,True
+CLT0484,Sinch Engage,WhatsApp Business,WhatsApp API,United States,2025-02-06,True
+CLT0485,Sinch Engage,Verification,Data Verification,Austria,2024-01-25,True
+CLT0485,Sinch Engage,Email,Marketing Email,Austria,2023-12-30,True
+CLT0486,MailerSend,SMS,P2P SMS,Argentina,2024-05-22,True
+CLT0486,MailerSend,Verification,2FA SMS,Colombia,2024-04-23,True
+CLT0486,MailerSend,Email,Marketing Email,Colombia,2024-04-30,True
+CLT0487,MessageMedia,SMS,A2P SMS,United States,2024-11-24,True
+CLT0487,MessageMedia,Email,Transactional Email,United States,2024-11-15,True
+CLT0487,MessageMedia,WhatsApp Business,WhatsApp API,Canada,2024-11-19,True
+CLT0488,MailerSend,Email,Marketing Email,United Kingdom,2024-07-01,True
+CLT0488,MailerSend,Verification,2FA SMS,Ireland,2024-05-17,True
+CLT0489,Sinch Core,SMS,P2P SMS,Finland,2025-10-11,True
+CLT0489,Sinch Core,Verification,Data Verification,Denmark,2025-11-25,True
+CLT0490,Sinch Engage,Verification,Flash Call Verification,Italy,2022-10-04,True
+CLT0490,Sinch Engage,WhatsApp Business,WhatsApp API,France,2022-09-16,True
+CLT0490,Sinch Engage,SMS,SMS API,Portugal,2022-10-16,True
+CLT0490,Sinch Engage,Voice,SIP Trunking,France,2022-09-17,True
+CLT0491,Sinch Core,Email,Transactional Email,Switzerland,2025-08-07,True
+CLT0491,Sinch Core,SMS,A2P SMS,Switzerland,2025-08-09,True
+CLT0492,MailerSend,SMS,P2P SMS,Singapore,2023-08-18,True
+CLT0492,MailerSend,Verification,2FA SMS,Singapore,2023-07-29,True
+CLT0493,MailerSend,Email,Marketing Email,United States,2023-09-26,True
+CLT0493,MailerSend,WhatsApp Business,WhatsApp API,Canada,2023-10-17,True
+CLT0494,MailerSend,Voice,Voice API,Germany,2022-08-08,True
+CLT0494,MailerSend,SMS,P2P SMS,Austria,2022-06-29,True
+CLT0495,MailerSend,Voice,Voice API,France,2025-08-23,False
+CLT0495,MailerSend,SMS,A2P SMS,Italy,2025-08-22,False
+CLT0496,MessageMedia,WhatsApp Business,WhatsApp API,Singapore,2023-11-17,True
+CLT0496,MessageMedia,Voice,Voice API,India,2023-10-27,True
+CLT0496,MessageMedia,Email,Marketing Email,Australia,2023-11-22,True
+CLT0496,MessageMedia,SMS,P2P SMS,Singapore,2023-10-20,True
+CLT0497,MessageMedia,Verification,2FA SMS,Portugal,2025-06-03,False
+CLT0497,MessageMedia,SMS,SMS API,France,2025-05-14,False
+CLT0498,MailerSend,SMS,SMS API,Italy,2025-09-18,True
+CLT0498,MailerSend,Verification,Flash Call Verification,Portugal,2025-10-29,True
+CLT0499,MailerSend,Voice,SIP Trunking,Canada,2024-02-09,True
+CLT0499,MailerSend,SMS,SMS API,Canada,2024-03-05,True
+CLT0499,MailerSend,Email,Marketing Email,United States,2024-03-10,True
+CLT0500,MailerSend,SMS,SMS API,Colombia,2025-08-18,True
+CLT0500,MailerSend,Verification,Flash Call Verification,Argentina,2025-08-16,True
