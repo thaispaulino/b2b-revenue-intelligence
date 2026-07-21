@@ -162,6 +162,33 @@ st.markdown(f"""
 # ─────────────────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
+    required_files = [
+        'data/raw/accounts.csv',
+        'data/raw/product_subscriptions.csv',
+        'data/raw/account_health.csv',
+        'data/raw/monthly_metrics.csv',
+    ]
+    if not all(os.path.exists(f) for f in required_files):
+        os.makedirs('data/raw', exist_ok=True)
+        src_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'src')
+        if src_path not in sys.path:
+            sys.path.insert(0, src_path)
+        from generate_dataset import (
+            generate_account_managers, generate_accounts,
+            generate_product_subscriptions, generate_monthly_metrics,
+            generate_account_health,
+        )
+        am_df = generate_account_managers()
+        am_df.to_csv('data/raw/am.csv', index=False)
+        acc_df = generate_accounts(am_df)
+        acc_df.to_csv('data/raw/accounts.csv', index=False)
+        subs_df = generate_product_subscriptions(acc_df)
+        subs_df.to_csv('data/raw/product_subscriptions.csv', index=False)
+        metrics_df = generate_monthly_metrics(acc_df, subs_df)
+        metrics_df.to_csv('data/raw/monthly_metrics.csv', index=False)
+        health_df = generate_account_health(acc_df, subs_df, metrics_df)
+        health_df.to_csv('data/raw/account_health.csv', index=False)
+
     acc     = pd.read_csv('data/raw/accounts.csv')
     subs    = pd.read_csv('data/raw/product_subscriptions.csv')
     health  = pd.read_csv('data/raw/account_health.csv')
